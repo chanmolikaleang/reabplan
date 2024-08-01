@@ -1,0 +1,30 @@
+/* Footer.css */
+.fixed-bottom {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures it stays on top of other elements */
+  }
+  
+  /* Add this to your global CSS or a new file */
+  body, html, #root {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .flex-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .flex-content {
+    flex: 1;
+  }
+.footer{
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+}
+  

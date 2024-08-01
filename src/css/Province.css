@@ -1,0 +1,86 @@
+.custom-shadow {
+  box-shadow: 0 4px 8px green; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.content {
+  color: white;
+  font-size: 40px;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar-nav {
+  margin: auto;
+}
+
+.navbar-nav .nav-item {
+  margin: 0 10px;
+}
+
+.navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #28a745; 
+}
+
+.content img {
+  width: 100%;
+  max-width: 300px;
+  height: 200px; /* Set a fixed height for the images */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+}
+
+.content div {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: 300px; /* Set a fixed height for the boxes */
+}
+
+.content h2 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+#para {
+  color: white;
+}
+
+.content p {
+  font-size: 14px;
+  color: black;
+}
+
+.content div:hover {
+  border-color: #4CAF50;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.container .content {
+  position: relative;
+  text-align: center;
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.container .content h2 {
+  margin-bottom: 20px;
+}

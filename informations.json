@@ -1,0 +1,1557 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 1,
+      "role": "admin"
+    },
+    {
+      "name": "Nettra",
+      "email": "nettra@gmail.com",
+      "password": "12345",
+      "id": 4,
+      "role": "user"
+    },
+    {
+      "name": "Rithy Nettra",
+      "email": "nettrastm@gmail.com",
+      "password": "12345",
+      "id": 5,
+      "role": "user"
+    },
+    {
+      "name": "Rithy",
+      "email": "Rithy@gmail.com",
+      "password": "rithy123",
+      "id": 6,
+      "role": "user"
+    },
+    {
+      "name": "NettraSTM",
+      "email": "sak@gmail.com",
+      "password": "sak",
+      "id": 7,
+      "role": "user"
+    },
+    {
+      "name": "Nitnit",
+      "email": "nitnit@gmail.com",
+      "password": "12345",
+      "id": 8
+    }
+  ],
+  "Destinations": [
+    {
+      "id": 1,
+      "name": "Royal Palace",
+      "image": "/Royal Palace-Hor_Samran_Phirun.jpg",
+      "description": "One of the best places to visit in Phnom Penh is the Royal Palace and the Silver pagoda. The Royal Palace seats the royal family and was established in 1860s. The throne room in the palace is open for public visit and is beautiful made. It represents Khmer style of architecture. The Silver Pagoda is also very beautiful, it is surely one of Phnom Penh point of interest. It houses a huge Buddha statue and has mural depictions all over the roof describing Reamkar which is based on Indian Ramayan. ",
+      "map": "https://www.google.com/maps/place/Royal+Palace/@11.563877,104.9312521,15z/data=!4m6!3m5!1s0x3109513dc76a6be3:0xf8f1809319cea6df!8m2!3d11.563877!4d104.9312521!16zL20vMDg1Zl8w?entry=ttu"
+    },
+    {
+      "id": 2,
+      "name": "Wat Phnom",
+      "image": "/Phnom Penh.jpg",
+      "description": "Phnom Penh is generally speaking built on flat ground. Wat Phnom is the only location that has little bit of a height. The location of Wat Phnom is supposed the one where the first temple was built in around 14th century. Although many temples have been built there after that, still local people feel its auspicious and visitors will find locals presenting offerings there. It is surely a tourist area in Phnom Penh.",
+      "map": "https://www.google.com/maps/place/Wat+Phnom+Daun+Penh/@11.576096,104.9233301,15z/data=!4m2!3m1!1s0x0:0x2588e1ac1787eb64?sa=X&ved=2ahUKEwj0g4aAsbKDAxV7g2MGHdiwC88Q_BJ6BAgkEAA"
+    },
+    {
+      "id": 3,
+      "name": "Koh Ker Temple",
+      "image": "/Koh Ker Temple-2.jpg",
+      "description": "The Koh Ker complex is on the Chhork Koki highland. It was built by King Jayavaraman IV (AD 928-942). Koh Ker temple is 35 meters high, and its design resembles a seven-stepped stupa. The temple faces west toward Angkor city. It was built to worship Treypuvanesvara, the god of happiness. So far, 96 temples have been found in Koh Ker: Dav, Rumlum Bey, Beung Veng, Trapiang Prey, Dey Chhnang, Srok Srolao, Lingam, Kuk Srakum, Trapiang Ta, Sophy, Krahom, Andoung, Ang Khna, Teuk Krahom, Damrei Sar, Krarab, Banteay Pichoan, Kuk, Kmao, Thneung, Thorn Balang, Rohal, Chamneh, Sampich, Trapiang Svay, Neang Kmao, Pram, Bat, Khnar Chen, Klum, Chrab, Dangtung, Prang, Kampiang.... These temples were not constructed near each other. Today, many of them are no longer standing, and some are buried in the ground. The site of Koh Ker was inscribed on the UNESCO World Heritage List on 17 September 2023 during the 45th session of the World Heritage Committee in Riyadh, Saudi Arabia.",
+      "map": "https://maps.app.goo.gl/oYvWLKEwxvYDe8sEA"
+    },
+    {
+      "id": 4,
+      "name": "Bokor Hill",
+      "image": "/Bokor Hill.jpg",
+      "description": "It was erected by French colonists in 1922 during the reign of King Sisowath. Bokor was a resort location for affluent French colonists who needed a change of atmosphere. The Bokor Hill is 1,075 meters high, and promises good weather and magnificent views. Big trees casting shadows over the water and rocks shaped as animal figures hold particular interest for tourists. The mountain overlooks Kampot Town, Kep Beach, Preah Sihanouk Province and blue sea water.",
+      "map": "https://maps.app.goo.gl/RUtxy4btU8Fsqebz8"
+    },
+    {
+      "id": 5,
+      "name": "Independence Monument",
+      "image": "/Cambodia National Museum.jpg",
+      "description": "Independence Monument is a Angkorian style to commemorate independence of the country from French rule in 1953. The monument represents Angkorian temples with nagas( snake structure) on the top. It also embodies the sacrifice made by Cambodian war soldiers and Cambodia- vietnam- friendship after Vietnamese were defeated by Khmer Rouge.",
+      "map": "https://www.google.com/maps/place/Independence+Monument/@11.5564403,104.928197,15z/data=!4m2!3m1!1s0x0:0xeac5420f72706db0?sa=X&ved=2ahUKEwjfh5D9sbKDAxU32DgGHQ4bCAAQ_BJ6BAgrEAA"
+    },
+    {
+      "id": 6,
+      "name": "Independence Beach",
+      "image": "/Independence Beach.jpg",
+      "description": "Independence Beach is around 1.3 km long and is northwest of Sokha Beach. The beach is named after the Independence Hotel, towering on top of a rock at its northern end. ",
+      "map": "https://maps.app.goo.gl/GmERsioRpsuEqL7s8"
+    },
+    {
+      "id": 7,
+      "name": "Chip Mong 271 Mega Mall",
+      "image": "/Chip Mong 271 Mega Mall.jpg",
+      "description": "It could be a large-scale shopping complex operated by the Chip Mong Group, a prominent conglomerate in Cambodia with interests in various sectors, including real estate, construction, and retail. A variety of shops offering fashion, electronics, home goods, and other retail products. Restaurants, cafes, and food courts providing a range of cuisine options. Cinemas, arcades, or other entertainment options for visitors of different ages. Banks, ATMs, beauty salons, and other services may be available.",
+      "map": "https://www.google.com/maps/place/Chip+Mong+271+Mega+Mall/@11.5255789,104.9237827,15z/data=!4m6!3m5!1s0x310951cb038982f9:0xc21b4b522ae49bc3!8m2!3d11.5255789!4d104.9237827!16s%2Fg%2F11gy2r4h4_?entry=ttu"
+    },
+    {
+      "id": 8,
+      "name": "Haong Waterfall",
+      "image": "/Haong Waterfall.jpg",
+      "description": "Haong Waterfall is in the category of the Waterfall, Natural tourism site. Things to do, as well as the attractions of Haong Waterfall for you such as Swimming, having picnic, where to eat, Seeing Mountain view and more. For the trip to the location of Haong Waterfall, it is easy because it is not necessary to walk and cross the river or take a boat. For parking, you can park directly at the location.",
+      "map": "https://www.google.com/maps/place/Haong+Waterfall/@11.9577631,106.0190856,15z/data=!4m6!3m5!1s0x310c9328716c4735:0xf6e2697cf7f80ec2!8m2!3d11.9577631!4d106.0190856!16s%2Fg%2F11b6hmm4jx?entry=ttu"
+    },
+    {
+      "id": 9,
+      "name": "Cheung Ang Temple",
+      "image": "/Cheung Ang Temple.jpg",
+      "description": "It often called Prasat Cheung Ang. Cheung Ang Temple is in the category of the Temple, Sight or Landmark. Things to do, as well as the attractions of Cheung Ang Temple for you such as Seeing temple sculpture, Researching history and more.",
+      "map": "https://www.google.com/maps/place/Cheung+Ang+Temple/@11.8805275,105.8066547,15z/data=!4m6!3m5!1s0x310c8992c0cb14b9:0x626c2132e9125b2a!8m2!3d11.8805275!4d105.8066547!16s%2Fg%2F1s04d7lzy?entry=ttu"
+    },
+    {
+      "id": 10,
+      "name": "Koh Paen Island",
+      "image": "/koh-paen-island.jpg",
+      "description": "2km (2mn) From Provincial Town. Operations of Recreation Park and Beaches, Location: Kampong Cham & Kampong Siem District.",
+      "map": "https://maps.app.goo.gl/zX1zVDrdeUDSVkwn8"
+    },
+    {
+      "id": 11,
+      "name": "Teuk Chhar",
+      "image": "/teuk-chhar.jpg",
+      "description": "Next to Preah Theat Teuk Chhar temples is a canal dug during ancient times. Water fills the canal year-round, and the water is very clear and free-flowing, making it popular with tourists who enjoy bathing in it. At one time, there were many trees and plants along both sides of the canal, but they were removed to make a big plain, where the water flows alongside the main temple.",
+      "map": "https://maps.app.goo.gl/xFfTaD3zRm5fkoEi6"
+    },
+    {
+      "id": 12,
+      "name": "Preah Theat Teuk Chhar",
+      "image": "/phnom_hanchey.jpg",
+      "description": "Preah Theat Teuk Chhar is a group of temples. The temples were constructed in AD 1005, during the reign of King Suryavarman I. As proposed by King's adviser Chung Chheal (also named Chekngak Khealleah or Leaksintra), the King agreed to build these temples, and Leaksintra started construction on the site called Sithiborya that which owned by the King, who also contributed money. Leaksintra, however, used his salesmanship to encourage the local people to contribute money as well, until the project was finished. The architect excavated a large pond on the right side of the temple called Leaksintrada. A golden Silva lingam was kept in the middle of the pond. Nearby, a village of wealthy people was formed. In addition, people from nearby villages were invited to live there, too, and the village soon became a crowded but cheerful town. Leaksintra told the king of the new town, and the king went there to celebrate the town's inauguration in AD 1025. He gave the city numerous gifts, including 29 soldiers and a rice field that surrounded the temple.",
+      "map": "https://maps.app.goo.gl/i2JCt33Bv4pkQBJb6"
+    },
+    {
+      "id": 13,
+      "name": "Nokor Bachey Temple",
+      "image": "/nokor-bachey-temple.jpg",
+      "description": "The temple was built in the middle of the 11th century, during the reign of Suryavarman II and King Ouphey dedicating to Brahmanism. The temple is about 200 meters inside the gate. The site is accessible to almost all types of vehicles. The famous place of Nokor Bachey Temple, Kampong Cham is a wonderful place to visit in the country of Cambodia.",
+      "map": "https://maps.app.goo.gl/YKRqeFo1VQRJmp2UA"
+    }
+  ],
+  "All_Provinces": [
+    {
+      "id": 1,
+      "title": "Phnom Penh",
+      "image": "/Phnom Penh.jpg",
+      "Description": "Phnom Penh's Description",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Royal Palace",
+          "image": "/Royal Palace-Hor_Samran_Phirun.jpg",
+          "description": "One of the best places to visit in Phnom Penh is the Royal Palace and the Silver pagoda. The Royal Palace seats the royal family and was established in 1860s. The throne room in the palace is open for public visit and is beautiful made. It represents Khmer style of architecture. The Silver Pagoda is also very beautiful, it is surely one of Phnom Penh point of interest. It houses a huge Buddha statue and has mural depictions all over the roof describing Reamkar which is based on Indian Ramayan. ",
+          "map": "https://www.google.com/maps/place/Royal+Palace/@11.563877,104.9312521,15z/data=!4m6!3m5!1s0x3109513dc76a6be3:0xf8f1809319cea6df!8m2!3d11.563877!4d104.9312521!16zL20vMDg1Zl8w?entry=ttu"
+        },
+        {
+          "id": 2,
+          "name": "Wat Phnom",
+          "image": "https://files.intocambodia.org/content/big/adfb128d97ca55fe045fd0dc2af2c285.jpg",
+          "description": "Phnom Penh is generally speaking built on flat ground. Wat Phnom is the only location that has little bit of a height. The location of Wat Phnom is supposed the one where the first temple was built in around 14th century. Although many temples have been built there after that, still local people feel its auspicious and visitors will find locals presenting offerings there. It is surely a tourist area in Phnom Penh.",
+          "map": "https://www.google.com/maps/place/Wat+Phnom+Daun+Penh/@11.576096,104.9233301,15z/data=!4m2!3m1!1s0x0:0x2588e1ac1787eb64?sa=X&ved=2ahUKEwj0g4aAsbKDAxV7g2MGHdiwC88Q_BJ6BAgkEAA"
+        },
+        {
+          "id": 3,
+          "name": "National Museum",
+          "image": "/Cambodia National Museum.jpg",
+          "description": "It is a traditional looking building that house art that was created in Cambodian history. It will let the visitors understand the growth and evolution of people in Cambodia. It also has many special artifacs like the head of Vishnu that was found near Angkor Wat. The museum started in 1920 and is a must visit place in Phnom Penh.",
+          "map": "https://www.google.com/maps/place/National+Museum+of+Cambodia/@11.5658543,104.9291464,15z/data=!4m2!3m1!1s0x0:0xb8be437d2b4aa725?sa=X&ved=2ahUKEwjXwoWjsbKDAxVSxTgGHfXABZUQ_BJ6BAgcEAA"
+        },
+        {
+          "id": 4,
+          "name": "Toul Sleng Museum",
+          "image": "/Toul Sleng Museum-3.jpg",
+          "description": "Tuol Sleng Museum is one of the places to visit in Phnom Penh which was once a infamously known as the worst Khmer Rouge prison S-21. 17,000 people have been put in these torture cells, who were suspected to be against the regime. There were extensive records and photographs that were taken during 1974 to 1979 (that is the running time of the jail in the Khmer Rouge regime) which survived till today making the suffering of all these people known to the world.",
+          "map": "https://www.google.com/maps/place/Tuol+Sleng+Genocide+Museum/@11.548851,104.9176751,15z/data=!4m2!3m1!1s0x0:0x13d2255f6e2fd8a7?sa=X&ved=2ahUKEwjg4t_AsbKDAxVFzDgGHdmkDKsQ_BJ6BAgkEAA"
+        },
+        {
+          "id": 5,
+          "name": "Independence Monument",
+          "image": "/Independence Monument.jpg",
+          "description": "Independence Monument is a Angkorian style to commemorate independence of the country from French rule in 1953. The monument represents Angkorian temples with nagas( snake structure) on the top. It also embodies the sacrifice made by Cambodian war soldiers and Cambodia- vietnam- friendship after Vietnamese were defeated by Khmer Rouge.",
+          "map": "https://www.google.com/maps/place/Independence+Monument/@11.5564403,104.928197,15z/data=!4m2!3m1!1s0x0:0xeac5420f72706db0?sa=X&ved=2ahUKEwjfh5D9sbKDAxU32DgGHQ4bCAAQ_BJ6BAgrEAA"
+        },
+        {
+          "id": 6,
+          "name": "Aeon Mall",
+          "image": "/Aeon Mall.jpg",
+          "description": "The things that you can do in the shopping mall explore a variety of stores offering fashion, electronics, cosmetics, and other goods. Many malls feature entertainment options such as cinemas, arcades, or indoor playgrounds for children. Enjoy a meal or snack at one of the mall's restaurants or food court. Even if you're not planning to buy anything, wandering through the mall and window shopping can be a pleasant way to spend time.",
+          "map": "https://www.google.com/maps/place/AEON+Mall+Mean+Chey/@11.4849163,104.9180831,15z/data=!4m2!3m1!1s0x0:0xd51a35853e6f22da?sa=X&ved=2ahUKEwi71sbgsrKDAxVoUGwGHUrVAhEQ_BJ6BAgHEAA"
+        },
+        {
+          "id": 7,
+          "name": "Chip Mong 271 Mega Mall",
+          "image": "/Chip Mong 271 Mega Mall.jpg",
+          "description": "It could be a large-scale shopping complex operated by the Chip Mong Group, a prominent conglomerate in Cambodia with interests in various sectors, including real estate, construction, and retail. A variety of shops offering fashion, electronics, home goods, and other retail products. Restaurants, cafes, and food courts providing a range of cuisine options. Cinemas, arcades, or other entertainment options for visitors of different ages. Banks, ATMs, beauty salons, and other services may be available.",
+          "map": "https://www.google.com/maps/place/Chip+Mong+271+Mega+Mall/@11.5255789,104.9237827,15z/data=!4m6!3m5!1s0x310951cb038982f9:0xc21b4b522ae49bc3!8m2!3d11.5255789!4d104.9237827!16s%2Fg%2F11gy2r4h4_?entry=ttu"
+        },
+        {
+          "id": 8,
+          "name": "Mekong River",
+          "image": "/Mekong River night view.jpg",
+          "description": "The river is ever present in the life of Phnom Penh.where it merges as Four Corners with the Bassac. Bustling with tourists during the day, beautiful at sunset, crowded with spectators for the boat races and fireworks.",
+          "map": "https://www.google.com/maps/place/Chip+Mong+271+Mega+Mall/@11.5255789,104.9237827,15z/data=!4m6!3m5!1s0x310951cb038982f9:0xc21b4b522ae49bc3!8m2!3d11.5255789!4d104.9237827!16s%2Fg%2F11gy2r4h4_?entry=ttu"
+        },
+        {
+          "id": 9,
+          "name": "Fun Mall TK",
+          "image": "/funmall.jpeg",
+          "description": "Fun Mall has a spacious interior that goes up to 3 floors with each floor having many shops. What’s more unique is their rock climbing wall at the center of the mall that rises all 3 floors. Most importantly, you’re probably looking to take some nice photos at the place that’s decorated to look like ChinaTown, isn’t that right? First, let’s explore each floor and you’ll find out where this unique place is XD!",
+          "map": "https://www.google.com/maps/place/Fun+Mall+TK/@11.5777558,104.8941507,15z/data=!4m2!3m1!1s0x0:0xa0ddb42285650103?sa=X&ved=1t:2428&ictx=111"
+        },
+        {
+          "id": 10,
+          "name": "PhnomPenh Fantasy Park",
+          "image": "/pp-fantisy.jpeg",
+          "description": "At Drink coffee, watch the sunset, walk around the night market, ride a basket, have fun.",
+          "map": "https://www.google.com/maps/place/Phnom+Penh+Fantasy+Park/@11.5952971,104.9264975,15z/data=!4m2!3m1!1s0x0:0xef564ed699d08356?sa=X&ved=1t:2428&ictx=111"
+        },
+        {
+          "id": 11,
+          "name": "Pnhom Penh Safari",
+          "image": "/pp-safari.webp",
+          "description": "Phnom Penh Safari is a zoo located in Phum Prek Tarath District of Phnom Penh. Covering 60 hectares the zoo offers several themed areas with a large range of local and international wildlife. They also offer live performances including orangutans, tigers, bird shows and also feeding stations where you can really get up close and connect with many different species.",
+          "map": "https://www.google.com/maps/place/Phnom+Penh+Safari/@11.7009247,104.871535,15z/data=!4m2!3m1!1s0x0:0x980a10dd49bdc9de?sa=X&ved=1t:2428&ictx=111"
+        },
+        {
+          "id": 12,
+          "name": "Garden City Water Park",
+          "image": "/garden-city.jpeg",
+          "description": "Garden City Water Park is an exciting destination that offers a refreshing oasis for guests of all ages. Situated in the heart of Garden City, this water park provides a fun-filled experience with its array of thrilling water slides, wave pools, lazy rivers, and interactive play areas. Whether you're seeking an adrenaline rush or a leisurely day under the sun, the park offers something for everyone. The lush green surroundings and tropical ambiance create a serene atmosphere, making it an ideal place to relax and enjoy quality time with family and friends. ",
+          "map": "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zKgyNsxOK7M0YLRSNagwNjRITUwxMTBMsUgxN04xtjKosDA1NTU2MrM0tTAxNk1NMfUSS08sSknNU0jOLKlUKE8sSS1SKEgsygYATcIW4A&q=garden+city+water+park&rlz=1C5CHFA_enKH1037KH1037&oq=garden+city&gs_lcrp=EgZjaHJvbWUqEggCEC4YQxivARjHARiABBiKBTIRCAAQRRg5GEMYyQMYgAQYigUyGAgBEC4YQxivARjHARiABBiKBRiYBRiZBTISCAIQLhhDGK8BGMcBGIAEGIoFMgwIAxAAGEMYgAQYigUyEggEEC4YQxivARjHARiABBiKBTIKCAUQABiSAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiPAjIHCAkQABiPAtIBCDU5ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=0x0:0x8555326958435ed5&vssid=lclsmap&eim=CAEQDBoSMTEuNzY5MDQzNDAxNDk2NTE4IhIxMDQuODM5NDI5MDE5ODI0MjQ"
+        },
+        {
+          "name": "7NG Cambodia",
+          "image": "https://i1.wp.com/oknha.news/wp-content/uploads/2020/11/389FE436-9685-438C-A8A4-A4E71C33C969.jpeg?fit=640%2C360&ssl=1",
+          "description": "Bring you to visit 7Ng, located in Vihear Sour Village, Khsach Kandal District, Kandal Province, if we cross the ferry. Welcome to 7NG!",
+          "map": "https://maps.app.goo.gl/o3K3vvHT8CxLHZUX8",
+          "id": 13
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tboung Khmum",
+      "image": "/photos/allprovinces/Thbong Khmom.jpg",
+      "Description": "Tboung Khmum is a province of Cambodia located on the central lowlands of the Mekong River. It borders the provinces of Kampong Cham to the west, Kratié to the north, Prey Veng to the south and shares an international border with Vietnam to the east. Its capital and largest city is Suong.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Haong Waterfall",
+          "image": "/Haong Waterfall.jpg",
+          "description": "Haong Waterfall is in the category of the Waterfall, Natural tourism site. Things to do, as well as the attractions of Haong Waterfall for you such as Swimming, having picnic, where to eat, Seeing Mountain view and more. For the trip to the location of Haong Waterfall, it is easy because it is not necessary to walk and cross the river or take a boat. For parking, you can park directly at the location.",
+          "map": "https://www.google.com/maps/place/Haong+Waterfall/@11.9577631,106.0190856,15z/data=!4m6!3m5!1s0x310c9328716c4735:0xf6e2697cf7f80ec2!8m2!3d11.9577631!4d106.0190856!16s%2Fg%2F11b6hmm4jx?entry=ttu"
+        },
+        {
+          "id": 2,
+          "name": "Cheung Ang Temple",
+          "image": "/Cheung Ang Temple.jpg",
+          "description": "It often called Prasat Cheung Ang. Cheung Ang Temple is in the category of the Temple, Sight or Landmark. Things to do, as well as the attractions of Cheung Ang Temple for you such as Seeing temple sculpture, Researching history and more.",
+          "map": "https://www.google.com/maps/place/Cheung+Ang+Temple/@11.8805275,105.8066547,15z/data=!4m6!3m5!1s0x310c8992c0cb14b9:0x626c2132e9125b2a!8m2!3d11.8805275!4d105.8066547!16s%2Fg%2F1s04d7lzy?entry=ttu"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kompong Cham",
+      "image": "/photos/allprovinces/Kompong Cham.jpg",
+      "Description": "Kompong Cham is a province of Cambodia located on the central lowlands of the Mekong River. It borders the provinces of Kampong Chhnang to the west, Kampong Thom and Kratié to the north, Tboung Khmum to the east, and Prey Veng and Kandal to the south. Kampong Cham is primarily lowlands. The main river is the Mekong River.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Koh Pen Beach",
+          "image": "/koh-paen-island.jpg",
+          "description": "2km (2mn) From Provincial Town. Operations of Recreation Park and Beaches, Location: Kampong Cham & Kampong Siem District.",
+          "map": "https://maps.app.goo.gl/zX1zVDrdeUDSVkwn8"
+        },
+        {
+          "id": 2,
+          "name": "Teuk Chhar",
+          "image": "/teuk-chhar.jpg",
+          "description": "Next to Preah Theat Teuk Chhar temples is a canal dug during ancient times. Water fills the canal year-round, and the water is very clear and free-flowing, making it popular with tourists who enjoy bathing in it. At one time, there were many trees and plants along both sides of the canal, but they were removed to make a big plain, where the water flows alongside the main temple.",
+          "map": "https://maps.app.goo.gl/xFfTaD3zRm5fkoEi6"
+        },
+        {
+          "id": 3,
+          "name": "Preah Theat Teuk Chhar",
+          "image": "/phnom_hanchey.jpg",
+          "description": "Preah Theat Teuk Chhar is a group of temples. The temples were constructed in AD 1005, during the reign of King Suryavarman I. As proposed by King's adviser Chung Chheal (also named Chekngak Khealleah or Leaksintra), the King agreed to build these temples, and Leaksintra started construction on the site called Sithiborya that which owned by the King, who also contributed money. Leaksintra, however, used his salesmanship to encourage the local people to contribute money as well, until the project was finished. The architect excavated a large pond on the right side of the temple called Leaksintrada. A golden Silva lingam was kept in the middle of the pond. Nearby, a village of wealthy people was formed. In addition, people from nearby villages were invited to live there, too, and the village soon became a crowded but cheerful town. Leaksintra told the king of the new town, and the king went there to celebrate the town's inauguration in AD 1025. He gave the city numerous gifts, including 29 soldiers and a rice field that surrounded the temple.",
+          "map": "https://maps.app.goo.gl/i2JCt33Bv4pkQBJb6"
+        },
+        {
+          "id": 4,
+          "name": "Nokor Bachey Temple",
+          "image": "/nokor-bachey-temple.jpg",
+          "description": "The temple was built in the middle of the 11th century, during the reign of Suryavarman II and King Ouphey dedicating to Brahmanism. The temple is about 200 meters inside the gate. The site is accessible to almost all types of vehicles. The famous place of Nokor Bachey Temple, Kampong Cham is a wonderful place to visit in the country of Cambodia.",
+          "map": "https://maps.app.goo.gl/YKRqeFo1VQRJmp2UA"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Preah Vihear",
+      "image": "/photos/allprovinces/Preah Vihear.jpg",
+      "Description": "The province is named after the temple of Prasat Preah Vihear. The Dângrêk Mountains and the Cambodia/Thailand border are in the north of Preah Vihear province. Preah Vihear is one of the nine provinces that are part of the Tonle Sap Biosphere Reserve.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Preah Vihear temple",
+          "image": "/Preah Vihear temple in dolden hours.jpg",
+          "description": "As a key edifice of the empire’s spiritual life, it was supported and modified by successive kings and so bears elements of several architectural styles. Quite often visited by clouds, the temple has the most spectacular setting of all the temples built during the six-century-long Khmer Empire. The Temple is composed of a series of sanctuaries linked by a system of pavements and staircases over an 800-meter-long axis and is built with a clear view of the plains from where it stands. Preah Vihear is truly an outstanding masterpiece of Khmer architecture; very ‘pure’ both in plan and in the detail of its decoration. The temple has four levels and four courtyards which comprise of five Gopuras (entrance pavilions). The third level was the Palace Building.",
+          "map": "https://maps.app.goo.gl/qfGfNGbjKqBvE16JA"
+        },
+        {
+          "id": 2,
+          "name": "Ba Kan Temple",
+          "image": "/Ba Kan Temple-2.png",
+          "description": "The Ba Kan located at Ta Seng Village, Ranaksei Commune, Sang Kum Thmey District in 105-Kilometer distanced from the provincial town by the National Road No 12 (64), then turning right more 30Kilometers. Ba Kan is the cultural site. Nowadays, the temple has no tourists to visit yet.",
+          "map": "https://maps.app.goo.gl/Rcf6iDqYWBXpXmFg6"
+        },
+        {
+          "id": 3,
+          "name": "Koh Ker Temple",
+          "image": "/Koh Ker Temple-2.jpg",
+          "description": "The Koh Ker complex is on the Chhork Koki highland. It was built by King Jayavaraman IV (AD 928-942). Koh Ker temple is 35 meters high, and its design resembles a seven-stepped stupa. The temple faces west toward Angkor city. It was built to worship Treypuvanesvara, the god of happiness. So far, 96 temples have been found in Koh Ker: Dav, Rumlum Bey, Beung Veng, Trapiang Prey, Dey Chhnang, Srok Srolao, Lingam, Kuk Srakum, Trapiang Ta, Sophy, Krahom, Andoung, Ang Khna, Teuk Krahom, Damrei Sar, Krarab, Banteay Pichoan, Kuk, Kmao, Thneung, Thorn Balang, Rohal, Chamneh, Sampich, Trapiang Svay, Neang Kmao, Pram, Bat, Khnar Chen, Klum, Chrab, Dangtung, Prang, Kampiang.... These temples were not constructed near each other. Today, many of them are no longer standing, and some are buried in the ground. The site of Koh Ker was inscribed on the UNESCO World Heritage List on 17 September 2023 during the 45th session of the World Heritage Committee in Riyadh, Saudi Arabia.",
+          "map": "https://maps.app.goo.gl/oYvWLKEwxvYDe8sEA"
+        },
+        {
+          "id": 4,
+          "name": "Preah Nimith Waterfall",
+          "image": "/Preah Nimith Waterfall-2.jpg",
+          "description": "Cambodia’s largest waterfall. Located in Preah Vihear province, on the Mekong River at the Cambodia-Lao border is a spectacular waterfall/cascade often referred to as Preah Nimith Waterfall (ទឹកធ្លាក់ព្រះនិមិត្ត), or the Lbak Khoun waterfall. November to May is the prime time to visit for clear water with it being quite muddy during the rainy season. Beautiful scenery, Mekong River flowing over the rocks with powerful force falling down the rocks at several places, so there are about 5 or 6 falls to be seen.",
+          "map": "https://maps.app.goo.gl/LF5BmhFt1zY73BpP6"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kampong Chhnang",
+      "image": "/photos/allprovinces/Kompong Chnang.jpg",
+      "Description": "Kampong Chhnang is one of the central provinces of Cambodia. Neighboring provinces are Kampong Thom, Kampong Cham, Kandal, Kampong Speu, and Pursat. The provincial capital is the city of Kampong Chhnang. It is in the alluvial plain of central Cambodia and is drained by the Tonle Sap, a tributary of the Mekong River",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Phnom Ta Ind",
+          "image": "/Phnom San Touch.jpg",
+          "description": "The Phnom Ta Ind, Kampong Chhnang is the ideal place to spend some quality time relaxing and enjoying the natural beauty of the place. Among the Tourist Attractions in Kampong Chhnang, Phnom Ta Ind, Kampong Chhnang is a visitor must-see. Tourists and travelers come in Phnom Ta Ind to get a glimpse of the wildlife of the exotic country of Cambodia. You can spend your idle time strolling and viewing and taking pictures of different kinds of birds and animals. Phnom Ta Ind, Kampong Chhnang has seen many migratory birds that stay and breed during the winter months.",
+          "map": "Location: Trapang Anchang Village, Svay Chrom Commune, Ralebiar District."
+        },
+        {
+          "id": 2,
+          "name": "Phnom Ta Reach",
+          "image": "/Phnom Ta Reach-1.jpg",
+          "description": "Phnom Ta Reach, the place where Pol Pot forced prisoners to carve the mountain rock having 200-meter length, 2.8-meter width and six-meter height. In a large space, there are many small concrete apartments. There is also a big and small hill covered with palm trees. Fresh air is abundant. This area can attract tourists to visit during the festival days.",
+          "map": "Location: The site is located at Phnom Touch village, Pong Ro Commune, Ro Lea Pha Ear District in 10 Kilometer distance from the provincial town or 101-Kilometer distance from Phnom Penh by the National Road No 5"
+        },
+        {
+          "id": 3,
+          "name": "Phnom Krang Romeas",
+          "image": "/phnom-krang-romeas.jpg",
+          "description": "It is a natural site abundant in big trees and fresh air. Cambodians gather here during holidays, particularly Khmer New Year and Pchumben. Kampong Chhnang has many sightseeing attractions which are worth paying a visit. One of the celebrated tourist destinations of the town is the Phnom Krang Romeas, Kampong Chhnang. Tourists of all ages visit the Phnom Krang Romeas, Kampong Chhnang on a frequent basis. Phnom Krang Romeas, Kampong Chhnang is the popular natural resort of Cambodia.",
+          "map": "Location: is located in Sre Thmei and Svay Chrum communes, Rolea Paear district, about 2 kilometers from the provincial town."
+        },
+        {
+          "id": 4,
+          "name": "Phnom Neang Kang Rey",
+          "image": "/Phnom Neang Kang Rey and show a shape of woman fell on the ground.jpg",
+          "description": "Phnom Neang Kang Rey as a natural reserve has been attracting large numbers of tourists from various areas of Cambodia as well as from other parts of the world. There are tall and beautiful trees and flowering plants that add to the natural beauty and charm of the place. You can go for a casual stroll and can organize natures walk along the wonderful Phnom Neang Kang Rey, Kampong Chhnang.",
+          "map": "Location:  Trabek Village, Trangil Commune, KomPong Leng District"
+        },
+        {
+          "id": 5,
+          "name": "Tonle Sap View",
+          "image": "/Tonle Sap View.jpg",
+          "description": "The site includes many floating houses and fishing lots, where locals raise and catch fish. The site is popular among foreign visitors who want to learn about Cambodian fishermen and those people who live on the river. The Tonle Sap is a very large river, which at one point becomes as wide as a lake. Traveling along this river is an interesting way to reach Siam Reap from Phnom Penh. While the slow boats take a couple of days to make the journey, it is easy to find fast boats which take only half a day.",
+          "map": ""
+        },
+        {
+          "id": 6,
+          "name": "Phnom Da",
+          "image": "/Phnom Da-1.jpg",
+          "description": "During your visit to the Phnom Da, Kampong Chhnang you can refresh your minds in tranquil surroundings. There are big shady trees in the Phnom Da, Kampong Chhnang. You can also find birds in this area. Getting to Phnom Da, Kampong Chhnang is very easy.",
+          "map": "Location: Da Village, Da Commune, Kompong Leng District."
+        },
+        {
+          "id": 7,
+          "name": "Phnom San Touch",
+          "image": "/Phnom San Touch.jpg",
+          "description": "Points of the interest at this site include a large stone related to Khmer legend, beautiful scenery that is popular with photographers and filmmakers and a panoramic view of the Great Lake Tonle Sap. On the hilltop, there is an old Chinese temple, where visitors like to relax. If you are in the beautiful country of Cambodia to send a memorable vacation with your family and friends, then you must not miss to the Tourist Attractions in Kampong Chhnang. Phnom San Touch, Kampong Chhnang happens to be one of the most popular tourist sites in the country. The Phnom San Touch, Kampong Chhnang is noted for its uniqueness and scenic beauty.",
+          "map": "Location: located at Santouch village, Sre Thmei commune, Rolea Paear district, about 3 kilometers north of the provincial town."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Kratié",
+      "image": "/photos/allprovinces/Kratie.jpg",
+      "Description": "Kratié has several temples built in the 8th century such as Khvas Pi, Pram, and Koh Kring that has perfect deities, ancient halls, Khmer ancient houses, and French-style buildings. The area near Kratié along the Mekong River was one of the most densely populated regions of the pre-Angkorian era of Cambodia. Kratié is known for its attractive riverside scenery and its green villages and paddies, and the river dolphins.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Dolphin Habitat Site",
+          "image": "/Dolphin Habitat Site in Krati‚.jpg",
+          "description": "Nature lovers and wildlife conservationists consider it as the best spot to watch the Irrawaddy dolphins. These Mekong dolphins are put on the critically endangered list of marine species that lives in the freshwater. It is estimated that there are between 66 and 86 dolphins left in the upper Cambodian Mekong area. Therefore, the Dolphin Habitat Site plays a significant role in the conservation of these dolphins, rather than a tourist attraction. Tourists need to be very patient because the chance of seeing dolphins isn’t guaranteed. The sightseeing trip can be done by boat trip or kayaking activity but should follow the dolphin watching guidelines to protect and avoid disturbing dolphins in their natural habitat.",
+          "map": "https://maps.app.goo.gl/WRn6srqEZnyjmmGf7"
+        },
+        {
+          "id": 2,
+          "name": "Koh Trong",
+          "image": "/Koh Trong.jpg",
+          "description": "It actually looks like an almighty 6km-long sandbar in the middle of the river. The only way to access Koh Trong is taking 5-minute wooden public ferry from the pier in front of Jasmine Boat Restaurant in downtown Kratie. On arrival, you can go directly to the Community Based Tourism Center where you can hire bicycles or ox-carts, book homestay if you wish to spend an overnight stay here. The nine-kilometer trail in a narrow concrete path around the island will bring tourists through the lush and unspoilt rural Cambodian scenery filled with palm trees, paddy fields, market gardens and pretty Khmer-style wooden houses.",
+          "map": "https://maps.app.goo.gl/AqjGF9qjnNG4D6EK9"
+        },
+        {
+          "id": 3,
+          "name": "Phnom Sombok",
+          "image": "/phnom-sambok-pagoda-kratie view from the top.jpg",
+          "description": "Being built in the 15th century, the temple is dedicated to a Buddhist monk named Neak Voan, who resided, meditated and taught his disciples here. Situated in between two mountain peaks, Phnom Sombok boasts scenic panorama views of Mekong River. To reach the main temple on top, visitors need to climb about 300 stairs and are impressed by the long line of life-sized monk statues forming a guard of honor. Sunrise and sunset are two best moments to visit Phnom Sombok, admire the stunning view overlooking Mekong River or immerse yourself in nature. This is a good place to visit on the way back into town after dolphin watching tour in Kampi Village.",
+          "map": "https://maps.app.goo.gl/EjCBtYyqo1XY9UN66"
+        },
+        {
+          "id": 4,
+          "name": "The 100-Pillar Pagoda",
+          "image": "/The 100-Pillar Pagoda-2.jpg",
+          "description": "In the 8th century, this site used to be the Royal Palace temple of Sam Phu Borak Capital of the Chen La time located. In 1806, the initial pagoda and its 100 columns was constructed on this base in memory of Preah Ang Chan Reachea II’s daughter who was the victim of a crocodile in the nearby river. After being damaged by strong lightening, the pagoda was pulled down and rebuilt with only 78 columns. The pagoda visitors can see today was renovated two more times (in 1987 and 1998) with 116 columns.",
+          "map": "https://maps.app.goo.gl/fDaKruNtyuPjnt3d8"
+        },
+        {
+          "id": 5,
+          "name": "Mekong Turtle Conservation Center",
+          "image": "/Mekong Turtle Conservation Center (MTCC)-2.jpg",
+          "description": "This conservation center is situated right on the grounds of 100-Pillar Pagoda and established by an NGO named Conservation International. The rare Cantor’s giant softshell turtle – one of the largest freshwater turtles, was rediscovered along this northern stretch of Mekong in 2007. This center does important tasks in taking care of large turtle rescued from trafficking as well as raising hatchlings for around 10 months before releasing them in the wild. These turtles burry themselves into the mud and sand as a protection mechanism.",
+          "map": ""
+        },
+        {
+          "id": 6,
+          "name": "Kampi River Rapids",
+          "image": "/Kampi River Rapids.jpg",
+          "description": "In dry season from January to May, locals go picnic here on weekends or public holidays. When water level in this part of Mekong drops sufficiently in dry season, many sandbars appear then wooden platforms are quickly established over these grounds with cool shady roofs. Hammocks and mats are available for rent by the hour. Wooden bridges are also set up to allow easy access to floating cottages.",
+          "map": "https://maps.app.goo.gl/DiSWdUaMjMG1JaJv5"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Kandal",
+      "image": "/photos/allprovinces/Kondal.jpg",
+      "Description": "Located in the southeast portion of the country. It completely surrounds the Cambodian capital of Phnom Penh and borders the provinces of Kampong Speu and Takéo to the west, Kampong Chhnang and Kampong Cham to the north, Prey Veng to the east, and shares an international border with Vietnam (An Giang and Đồng Tháp) to the south. The province also features two of the biggest rivers in the country, the Bassac and Mekong Rivers. Kandal province serves as an economic belt of the capital Phnom Penh. Farming and fishing are the two main industries of the province. Major products include palm oil, peanuts, rice, and pepper, wood carving, silk, and handicrafts.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Udong Mountain",
+          "image": "/Oudong.jpeg",
+          "description": "There are three names for this hill: Phnom Udong, Phnom Preah Reach Troap and Phnom Edthareus. The site includes the summits of five hills: Chetdei, Trai Treung, Chetdei Kampul Buon, Preah Ang Chol Nipean, and Ariya Kasaks. Chetdy and Trai Treung summits are the same height. The area of Phnom Udong is about 1,500 meters by 700 meters from the east to the west.",
+          "map": "https://maps.app.goo.gl/SoYbKonNmrHtkwHSA"
+        },
+        {
+          "id": 2,
+          "name": "Koh Dach",
+          "image": "/kohdach.jpeg",
+          "description": "Koh dach, Kandal is one of the popular tourist destinations in the province as well as in Cambodia. The entire area of Koh dach island covers 30 square kilometers of land lying on the shores of Mekong River. The travelers, who want a break from the buys and hectic life, can land to this secluded and sleepy island. The tourists can reach the island within a minute from Phnom Penh by availing boats. visitors can have abundant of traditional handicrafts like silk weaving, pottery, dyeing and wood carving. If they want to buy these local articles, they can pay a visit to the local workshops and street shops as well as handicraft center.",
+          "map": "https://maps.app.goo.gl/dNALYtM36pLRQFZ8A"
+        },
+        {
+          "id": 3,
+          "name": "Phnom Sa Ang",
+          "image": "/Saang.jpg",
+          "description": "There is a pagoda at the top of the hill. Saang Phnom has fewer trees than Phnom Thon Mond, but a big lake surrounds the hill, and there are many Rumchong and Prolit flowers (a kind of white or yellow water lily with a long edible stalk). The lake is full of fish, and many visitors enjoy taking boat rides and fishing. During the rainy season, Saang Phnom looks like a small forest island. The air is cool and fresh there. Recently, the provincial tourism services, working with local authorities, planted more trees and improved security and sanitary conditions for tourists. The site is especially popular during traditional festivals and public holidays.",
+          "map": "https://maps.app.goo.gl/r8FGxXicwLzzLgZJ8"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Kompot",
+      "image": "/photos/allprovinces/KAMPOT.jpg",
+      "Description": "Kompot is a province in southwestern Cambodia. It is rich in low arable lands and has abundant natural resources. Its capital is the city of Kampot. Kampot Province had a population of 627,884[3] in 2010 and consist of eight districts divided into 92 communes with a total of 477 villages.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Kampot pepper",
+          "image": "/Kampot pepper and thr farmer.jpg",
+          "description": "is a cultivar of black pepper (Piper nigrum) grown and produced in Cambodia. During the early 20th century under the French protectorate within French Indochina it was also known as Indochinese pepper. Kampot pepper is a certified geographical indication (GI) product in Cambodia (since 2010) and in European Union (since 2016). There are two varieties: the small leaf (កំចាយ, kamchay) and the big leaf variety (lampong or belantoeung). Kampot pepper is grown in seven districts/cities in two southwestern provinces of Cambodia",
+          "map": ""
+        },
+        {
+          "id": 2,
+          "name": "Bokor Hill",
+          "image": "/Bokor Hill.jpg",
+          "description": "It was erected by French colonists in 1922 during the reign of King Sisowath. Bokor was a resort location for affluent French colonists who needed a change of atmosphere. The Bokor Hill is 1,075 meters high, and promises good weather and magnificent views. Big trees casting shadows over the water and rocks shaped as animal figures hold particular interest for tourists. The mountain overlooks Kampot Town, Kep Beach, Preah Sihanouk Province and blue sea water.",
+          "map": "https://maps.app.goo.gl/RUtxy4btU8Fsqebz8"
+        },
+        {
+          "id": 3,
+          "name": "Teuk Chhou",
+          "image": "/tekchhou.jpeg",
+          "description": "Several kilometers away from Kompot’s Teuk Chhou waterfall, there is a wildlife education park operated by a nonprofit organization. In fact, it is originally privately run, but because of detecting the problem of poor condition of taking care of animals, Footprints nonprofit organization takes over. The Park is medium level but has a large space, and the animals locate at different locations, so it allows visitors to drive in to visit. The park has many types of animals such as various monkeys, wild boar, ostrich, elephant, lion, tiger, cheetah, etc.",
+          "map": ""
+        },
+        {
+          "id": 4,
+          "name": "Durian Plantations",
+          "image": "/Durian Plantations-1.jpg",
+          "description": "Kampot durian is famous throughout Cambodia for its flavor and sweetness. It is deemed superior to Thai durian by Khmer connoisseurs (Prime Minister Hun Sen among them) and the price reflects this it can cost twice as much as its imported counterpart. Many foreigners do not enjoy the strong taste and smell of this strange fruit, with its creamy yellow flesh encased in brown spiked skin, but those who do will find the cheapest (and tastiest) durian in the Kingdom in Kampot.",
+          "map": ""
+        },
+        {
+          "id": 5,
+          "name": "River Park",
+          "image": "/Phnom Penh.jpg",
+          "description": "It is a cable or rope stretched between two points of different heights, down which a person slides for amusement by means of a suspended harness, pulley or handle. In Kampot, you can experience this exciting activity in River Park. It is located near Tuek Chhou Resort, along beautiful Kampong Bay River, about 8.5km north from Durian Roundabout.",
+          "map": "https://maps.app.goo.gl/YYkhWunv1mFP3c639"
+        },
+        {
+          "id": 6,
+          "name": "Caves near Kampot",
+          "image": "/River Park-3.jpg",
+          "description": "The limestone caves near Kampot house exotic rock formations and Buddhist shrines. When you plan to visit these caves near Kampot, make sure that you are carrying a torch and have put on proper trekking shoes. Caves near Kampot in Cambodia further include the cave at Phnom Sla Ta'aun Plain which is smaller in comparison to the other caves but still it is attractive to the climbers. The interesting things that you can find here are a small shrine as well as a huge rock that is balanced in a hole on the ceiling of the cave.",
+          "map": ""
+        },
+        {
+          "id": 7,
+          "name": "Kampong Trach",
+          "image": "/Kampong Trach mountain-2.jpg",
+          "description": "Once there was also a large cave in the center of the mountain whose roof had collapsed and thus a small enclosed jungle had been formed in the area. In the caves you would find various pagodas and caves which are excellent sightseeing attractions. Therefore, do not forget to bring a flashlight and always a pair of good walking shoes. One of the wells is about 30 meters in diameter and contains different colored soil. The other smaller wells have stones which look like animal figures. The large well has a trench which leads to the Viel Sre Muoy Roy and Thma Dos wells of Kampot.",
+          "map": "https://maps.app.goo.gl/deb8VmW3gPXZTjFA6"
+        },
+        {
+          "id": 8,
+          "name": "PreahMonivong Park",
+          "image": "/Preah Monivong National Park-2.jpg",
+          "description": "It is a national park in southern Cambodia's Kampot Province that was established in 1993 and covers 1,544.58 km2 (596.37 sq mi). In 2003, it was designated as an ASEAN Heritage Park.[2] It is located in the Dâmrei Mountains, forming the southeastern parts of the Cardamom Mountains. Most of the park is about 1,000 meters above sea level and the highest peak is Phnom Bokor at 1,081 meters, also referred to as Bokor Mountain.",
+          "map": "https://maps.app.goo.gl/AuyY7ZpQxsP3PcqU8"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Kep",
+      "image": "/photos/allprovinces/kep.jpg",
+      "Description": "It is the smallest province (khaet) of Cambodia covering 336 km2 (130 sq mi), with a population of 41,798. It is both the smallest and least populous province of Cambodia. The provincial capital is Kep.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Koh Tunsay",
+          "image": "/Koh Tunsay.jpg",
+          "description": "It is probably the main tourist attraction in Kep, however the tiniest Cambodian province has many other places of interest promoted from an environment perspective as ecotourism not only by the local government, but also by private initiatives like the Kep Tourist Association that gathers local hotels and restaurants of the province.",
+          "map": "https://maps.app.goo.gl/QRq5Kt8p8d3L4DUz6"
+        },
+        {
+          "id": 2,
+          "name": "Kep Beach",
+          "image": "/Kep Beach-2.jpg",
+          "description": "It is located at Kep District, in the tip of the peninsula. The area is the site of several ruined French mansions. Mostly black sand now recovered with the white sand of Sihanoukville.",
+          "map": "https://maps.app.goo.gl/gLYeEsMbRMRukUoQ8"
+        },
+        {
+          "id": 3,
+          "name": "Butterfly Farm",
+          "image": "/Butterfly Farm.jpg",
+          "description": "It is a private ecological garden in the Jasmine Valley Trail dedicated to preserve the local environment led by expatriate philanthropic persons.",
+          "map": "https://maps.app.goo.gl/Hv9nJUxnRaFQMuWW7"
+        },
+        {
+          "id": 4,
+          "name": "Koh Ach She",
+          "image": "/Koh Ach Seh.jpg",
+          "description": "Translates to 'Horseback Riding Island', however the name is popular evolving to just Koh Seh - Horse Island. The island is part of Kep Archipelago, and is being administered by Kep Province.",
+          "map": "https://maps.app.goo.gl/PWZchY8q9UAe5Jf47"
+        },
+        {
+          "id": 5,
+          "name": "Kep National Park",
+          "image": "/Kep National Park.jpg",
+          "description": "The park is a place of relaxation and tranquility. There's a small fee of $1 to enter this fun park, but it's worth it. Drinks can be had at Led Zep restaurant before you make the long 8km hike. Don't forget to wear your soft training shoes!",
+          "map": "https://maps.app.goo.gl/cU4CNsppwZCbL6tc8"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Preah Sihanouk",
+      "image": "/photos/allprovinces/Presh Sihanu.jpg",
+      "Description": "In southwest Cambodia on the Gulf of Thailand. The provincial capital, also called Sihanoukville, occupying an area of 2536 km2 that includes the foothills of the Elephant Mountains and a sizable peninsula. Moderately developed beaches, a national park and a number of islands in proximity are natural assets that attract national and foreign visitors. First established as Kampong Som, the province was later renamed in honor of former King Norodom Sihanouk, who orchestrated the establishment of Sihanoukville city and the Sihanoukville municipality as this took place alongside the construction of the Sihanoukville Port, which commenced in June 1955. The only deep-water port of Cambodia, it includes an oil terminal and a transport logistics facility.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Ochheuteal Beach",
+          "image": "/Ochheuteal Beach.jpg",
+          "description": "Ochheuteal Beach is a 3.3 km long strip of white sand beach lined with casuarina and tamarisk trees, grass umbrellas, rental chairs and around 30 standardized beach huts which serve meals and drinks, some serve also as night-time party spot. The sustainability of Ochheuteal Beach was a primary consideration of various stakeholders, which brought about the development of a tourism development and management plan in 2005. The southern half remains - apart from some hotels at its far end - essentially undeveloped.",
+          "map": "https://maps.app.goo.gl/LR8FuQdCjkWT63VC9"
+        },
+        {
+          "id": 2,
+          "name": "Otres Beach",
+          "image": "/Otres Beach.jpg",
+          "description": "It is around 4.6 km long and beyond the small Queen Hill headland at the southern end of Ochheuteal Beach. Its long white sand strip, also completely lined with casuarina and tamarisk trees, is far less developed and commercialized than Ochheuteal Beach and has developed into a preferred lodging place for Western visitors. It is a very popular, well established holiday retreat – where prices have risen considerably over the course of the last years.",
+          "map": "https://maps.app.goo.gl/cYDVTaKyUUST1Jp97"
+        },
+        {
+          "id": 3,
+          "name": "Sokha Beach",
+          "image": "/Sokha Beach.jpg",
+          "description": "Sokha Beach is around 1.2 km long and is west of Serendipity Beach. The beach is privately owned by, and its southern half occupied by, the Sokha Beach Hotel,[41] the first luxury beach hotel in Cambodia. While the beach is well kept and many facilities are provided, visitors have to pay for their use and beach vendors are not allowed.",
+          "map": "https://maps.app.goo.gl/v8C5Ak3vuYhytiMx9"
+        },
+        {
+          "id": 4,
+          "name": "Independence Beach",
+          "image": "/Independence Beach.jpg",
+          "description": "Independence Beach is around 1.3 km long and is northwest of Sokha Beach. The beach is named after the Independence Hotel, towering on top of a rock at its northern end. ",
+          "map": "https://maps.app.goo.gl/GmERsioRpsuEqL7s8"
+        },
+        {
+          "id": 5,
+          "name": "Victory Beach",
+          "image": "/Victory Beach.jpg",
+          "description": "Victory beach is around 300 m long and is at the furthest north of the peninsula of Sihanoukville. It was heavily used by backpackers and is still popular with budget travelers. The deep water port is at the northern end of the beach. A consortium of Russian business people undertook large scale development here. The beach is regularly maintained.",
+          "map": "https://maps.app.goo.gl/iBSrX2X9nsFEV1yq6"
+        },
+        {
+          "id": 6,
+          "name": "Hawaii Beach",
+          "image": "/Hawaii Beach.jpg",
+          "description": "It is the southern succession of Victory Beach, north of Independence Beach. It is a strip of similar length as Victory Beach - around 300 m. Here is the very place where the French/Cambodian construction team's groundwork began for the construction of the Sihanoukville Autonomous Port in 1955.",
+          "map": "https://maps.app.goo.gl/VbnpipSKegGyUpNr6"
+        },
+        {
+          "id": 7,
+          "name": "Treasure Island Beach",
+          "image": "/treasure-island-beach.jpg",
+          "description": "South of Lamherkay/Hawaii Beach is less than 50 m long and its entire length is fringed with concrete steps and wooden pavilions of a big Cambodian seafood restaurant.",
+          "map": "https://maps.app.goo.gl/U1kJmxSvSw7JTbaH9"
+        },
+        {
+          "id": 8,
+          "name": "Prek Treng Beach",
+          "image": "/Prek Treng Beach.jpg",
+          "description": "It is the northernmost beach of the city with a length of around 1.5 km, behind the local port and essentially empty without beach huts and bars, it sees only weekend - and holiday visitors. The water is very shallow, but the area is lacking favorable infrastructure and is not regularly cleaned.",
+          "map": "https://maps.app.goo.gl/pCwAKGfoGnRv1DwUA"
+        },
+        {
+          "id": 9,
+          "name": "Ream Beach",
+          "image": "/reambeach.jpeg",
+          "description": "It is south of Otres Beach, with an overall length of around 7.7 km, it consists of several sections with occasional stretches of rocks and vegetation. Koh Ta Kiev lies just 800 m off its southern end.",
+          "map": "https://maps.app.goo.gl/vdAdXigi7gyHv98fA"
+        },
+        {
+          "id": 10,
+          "name": "Koh Russei",
+          "image": "/Koh Russei view for the whole island.jpg",
+          "description": "Also known as Bamboo Island. This medium-sized island is a few kilometers out from Otres Beach or Ream. There is a small naval base and is being developed.",
+          "map": "https://maps.app.goo.gl/3ibb7XEoojiBBfMe9"
+        },
+        {
+          "id": 11,
+          "name": "Koh Rong",
+          "image": "/Koh Rong.jpg",
+          "description": "Twenty-six kilometers west of the Sihanoukville. Koh Rong is the largest of the islands. It encompasses an area of 78 km2. The terrain is predominantly hilly with a sizable mountain at the islands southwest. The hills provide water for creeks, lagoons and estuaries. The island's interior is almost completely forested. Although there are already many guest houses and pubs in and around Koh Tuich village, the island remains virtually deserted – its sheer size dwarfs all settlements. As of 2016, there is a well-functioning ferry network between Sihanoukville and Koh Rong.",
+          "map": "https://maps.app.goo.gl/pVg3aARKiiAirizF9"
+        },
+        {
+          "id": 12,
+          "name": "Koh Rong Sanloem",
+          "image": "/Koh Rong Sanloem.jpg",
+          "description": "South of Koh Rong with smaller beaches on the west and east coasts. South of Koh Rong, it resembles its bigger sister in shape and geography although a bit thinner, it is covered in dense forest, generally flatter, and it has noticeably less landmass in relation to its coastline. The marine life around Koh Rong Sanloem is very diverse and offers many diving spots. As of 2016, there is a well-functioning ferry network between Sihanoukville and Koh Rong Sanloem.Accommodation and prices range from cheap dorm beds to modern villas.",
+          "map": "https://maps.app.goo.gl/pfzVUwxBG35WYY4dA"
+        },
+        {
+          "id": 13,
+          "name": "Koh Kaong Kang",
+          "image": "/Koh Kaong Kang.jpg",
+          "description": "'Mangrove Island', Ile des Paletuviers (old French name), Koh Kaong Kang/Thass one of the inner islands – is popular with snorkelers. Koh Kaong Kang/Thass is very flat, hence freshwater is scarce - one of the reasons why nobody lives there permanently.",
+          "map": "https://maps.app.goo.gl/aqnUhb1rW68Wz6LN6"
+        },
+        {
+          "id": 14,
+          "name": "Koh Koun",
+          "image": "/Koh Koun view-1.jpg",
+          "description": "'Child Island', Ile de Cone (old French name), a small island between Koh Rong and Koh Rong Sanloem, has no beach, is uninhabited, but a popular dive - and snorkel spot.",
+          "map": "https://maps.app.goo.gl/tuUqwFdPSMYkZFDu8"
+        },
+        {
+          "id": 15,
+          "name": "Koh Tuoch",
+          "image": "/Koh-Touch.jpg",
+          "description": "Small Island, a tiny island off Koh Rong’s Koh Tuich village. There is a little pagoda on it in service since around 2010. Shallow waters provide good snorkeling spots around the whole island.",
+          "map": "https://maps.app.goo.gl/1gppPprMd1ndLUsH7"
+        },
+        {
+          "id": 16,
+          "name": "Koh Pos",
+          "image": "/Koh Pos.jpg",
+          "description": "Also known as Morokot Island or Snake Island. This island lies 800 meters (2,625 ft) off Victory Beach. It is under development by Russian investors and being converted into a luxury holiday destination and high standard residential area. Snake Island was linked to the mainland with a regular road traffic bridge since around July 2011. The bridge is not currently open for public traffic.",
+          "map": "https://maps.app.goo.gl/56D1ih14wed3bFSR7"
+        },
+        {
+          "id": 17,
+          "name": "Koh Dek Koul",
+          "image": "/Koh Dek Koul.jpg",
+          "description": "This small island lies 7 kilometers (4 mi) off Victory Beach and only a further few hundred meters off Snake Island. The Russian Mirax Luxury Resort corporation operates a hotel business on this predominantly rocky island.",
+          "map": "https://maps.app.goo.gl/WTqXfrXW4JQ9D7u96"
+        },
+        {
+          "id": 18,
+          "name": "Songsa Island",
+          "image": "/Song Saa.jpg",
+          "description": "Siblings/Lovers Islands Les Frères (old French name), renamed Koh Song Saa 'Lovers islands' two tiny islets off Koh Rong's northeast, it is home of the Song Saa Resort.",
+          "map": "https://maps.app.goo.gl/YfFFAgsx1HTjKeCR9"
+        },
+        {
+          "id": 19,
+          "name": "Koh Tres",
+          "image": "/Koh Tres.jpg",
+          "description": "'Pan Island', Ile Ronde (old French name), off Otres beach and easy to reach (15 min by Kayak) and has got a “beach” of around 10 m2 in size, which is submerged during high tide. Only one Cambodian family (officials) lives there.",
+          "map": "https://maps.app.goo.gl/sT32Be6eKyDhJCRv5"
+        },
+        {
+          "id": 20,
+          "name": "Koh Thmei",
+          "image": "/koh_thmei-1.jpg",
+          "description": "'New Island' Ile du Milieu (old French name), immediately southeast of the Sihanoukville headland inside Ream National Park.",
+          "map": "https://maps.app.goo.gl/VWZ4GVY2bbPY2Y6w5"
+        },
+        {
+          "id": 21,
+          "name": "Koh She",
+          "image": "/Koh She.jpg",
+          "description": "'Horse Island' Ile a L’eau (old French name), 1.5 km (1 mi) south of Koh Thmei and around 9 km (6 mi) south of the mainland of Sihanoukville's Ream commune. Less than 400 meters southwest of Koh Seh lies the tiny islet of Koh Ky.",
+          "map": "https://maps.app.goo.gl/FYfK1D3uCKnpTmKk6"
+        },
+        {
+          "id": 21,
+          "name": "Ream National Park",
+          "image": "/Ream-National-Park.jpg",
+          "description": "Take the opportunity to meet some of the people and wildlife living in the Ream National Park on this small group tour. Board a local wooden boat at Sihanoukville Port before cruising down the Ream River. This tour offers a different view of life in Preah Sihanouk; visit local houses and a mountain pagoda before returning to Sihanoukville.",
+          "map": "https://maps.app.goo.gl/z3VHJEgEobD946JJ8"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Pursat",
+      "image": "/photos/allprovinces/Photisat.jpg",
+      "Description": "It is a province of Cambodia. It is in the western part of the country. It lies between the Tonle Sap and the northern end of the Cardamom Mountains. The Pursat River bisects the province, running from the Cardamoms in the west to the Tonle Sap in the east. The fourth largest province of Cambodia in area, Pursat ranks only 14th in population. The region is accessible by National Highway 5, by boat, rail and by numerous smaller roads. The capital, Pursat town.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Kampong Luong",
+          "image": "/Kampong Luong.jpg",
+          "description": "The floating village of Kampong Luong on the Tonle Sap is the most unique and interesting place to visit in Pursat Province. It’s a complete village on water populated by over 10,000 inhabitants. Everyone lives in boats and the whole village moves up and down with the level of the water in the lake. The town has most of the usual facilities, restaurants, schools and even karaoke bars.While there is nowhere for visitors to stay overnight, it is possible to get there and back in a day, At Kampong Luong you can charter a boat to show you around and it should cost approximately USD $3/person for an hour, with a maximum of four tourists allowed per boat.",
+          "map": "https://maps.app.goo.gl/KS1aXbizKa6k9236A"
+        },
+        {
+          "id": 2,
+          "name": "Koh Sampov Meas",
+          "image": "/Koh Sampov Meas.jpg",
+          "description": "Koh Sampov Meas Island Park lies in the middle of the Pursat River, just in front of the Pursat hospital, 1km north of the first main concrete bridge. Although it is currently in the process of being upgraded to a provincial park for tourists and local residents, it features some fine crafted sculptures for visitors.",
+          "map": "https://maps.app.goo.gl/Q5zszkj2YmtTeuRC6"
+        },
+        {
+          "id": 3,
+          "name": "Phnom Ba Klas",
+          "image": "/Phnom Ba Klas.jpg",
+          "description": "It is a natural and cultural site. The site affords visitors beautiful scenery and abundant fresh air. The nearby mountains are filled with a small fruit tree, especially Kuy and Sei moan, which are popular among visitors. An old, crumbling pagoda still contains many statues and sculptures. Khmer people still come there to worship.",
+          "map": "https://maps.app.goo.gl/5sncNtKNhnmeDuU87"
+        },
+        {
+          "id": 4,
+          "name": "Phnom Kravanh",
+          "image": "/Phnom Kravanh mt.jpg",
+          "description": "The mountain range extends along a southeast-northwest axis from Chanthaburi Province in Thailand, and Koh Kong Province in Cambodia on the Gulf of Thailand, to the Veal Veang District in Pursat Province, and extends to the southeast by the Dâmrei (Elephant) Mountains. It is the most pristine wilderness area remaining in Southeast Asia. The region's area is 2.5 million acres (1 million hectares), Densely covered with lush virgin rainforest and rising to its highest point at over 1,770m, the Cardamoms extend over an area of 4,420,000 hectares (10,922,060 acres) covering a large portion of Southwestern Cambodia. There are five main rivers that run through the Cardamoms, creating dozens of waterfalls. About 25,000 people live in this region, some of whom are ethnic minorities, such as the Porr.There are two wildlife sanctuaries in the Cardamoms, both of which were decreed by King Norodom Sihanouk in 1993 solely on the basis of aerial photographs. Mt. Samkos Wildlife Sanctuary is in the western part of the range, and Mt. Aural Wildlife Sanctuary is in the east.",
+          "map": "https://maps.app.goo.gl/RUdJDJBZQ9XGRFpSA"
+        },
+        {
+          "id": 5,
+          "name": "Phnom Samkos",
+          "image": "/phnom-samkos.jpg",
+          "description": "It is located in the Cardamom Mountains and the area comprises mostly forested mountains, but with many different habitats and forest-types, and the landscape is dominated by three discrete peaks: Phnom Samkos (1,717 m (5,633 ft) and Cambodia's second highest peak). The sanctuary is notable for its large diversity of habitats, including several types of forests. The interior of the sanctuary is largely unexplored by scientists, but small-scale surveys suggests that many rare, unique and even endemic species are present. There is a rich diversity of primates and monkeys.",
+          "map": "https://maps.app.goo.gl/t2Msue1oCaruhiV3A"
+        },
+        {
+          "id": 6,
+          "name": "Chrok La Eang waterfall",
+          "image": "/Chrok La Eang waterfall.jpg",
+          "description": "Hills of deep green forest and trails along a beautiful waterfall welcome tourist at Chrok La Eang in Aural Wildlife Sanctuary, in the Western province of Pursat. The eco-tourism site is part of the world-famous Cardamom Mountains, home to vast tropical forests and exotic animal and plant species. The forest of Chrok La Eang is protected by the local community, who patrol it regularly to hinder illegal loggers from destroying their beautiful trees. With the facilities to camp overnight here (BYO tent), what better way to uncover a remarkable landscape, diverse wildlife and free flowing waterfalls.",
+          "map": "https://maps.app.goo.gl/t7NAY9qt5MfQV436A"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Battambong",
+      "image": "/photos/allprovinces/Battombong.jpg",
+      "Description": "It is the capital of Battambang Province and the THIRD largest city in Cambodia. Also Battambang is the leading rice-producing province of the Cambodia. On Oct 31, 2023, Battambang was on of 55 cities declared to join the UNESCO Creative Cities Network in field of Gastronomy as well as crafts and folk, design, film, gastronomy, literature, media arts and music. Hollywood’s film “ First they killed my father” is a 2017 Cambodian-America directed by Angelina Jolie and written by Jolie and Loung Ung was also film in some era in Battambang that was released worldwide on Netflix on September 15, 2017, to positive critical reception.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Kamping Puoy Lake",
+          "image": "/Kamping Puoy Lake.jpg",
+          "description": "Located between two mountains, named Phnom Kul or Phnom Ta Nget and Phnom Kamping Puoy, at Ta Nget village, Ta Kriem Commune is 35 kilometers (22 mi) from the provincial town. Kamping Puoy lake is 1,900 meters (6,230 ft) wide, 19 kilometers (12 mi) long and can hold 110,000,000 cubic metres (3.8846×109 cu ft) of water. It is famous for its giant lotus flowers whose fiber is spun and weaved to make a new organic fabric. These activities employ more than 20 underprivileged women around the lake.",
+          "map": ""
+        },
+        {
+          "id": 2,
+          "name": "Baset Temple",
+          "image": "/Baset Temple.png",
+          "description": "Was built during the reign of King Suryavarman I (1002-1050) and is located on a hill at Baset village, Ta Pun commune 15 kilometers (9 mi) from the provvincial town. Baset temple adapts the architecture of the 11th century and was built between 1036 and 1042. Next to the temple, there is a pond 20 meters (66 ft) long, 12 meters (39 ft) wide and 10 meters (33 ft) deep. The pond never dries up even in dry season.",
+          "map": "https://www.google.com/maps/place/Baset+Temple/@13.1167367,103.3038727,15z/data=!4m2!3m1!1s0x0:0xc20652f964d4db79?sa=X&ved=2ahUKEwi9pv7N0rODAxXDy6ACHRr3By8Q_BJ6BAgnEAA"
+        },
+        {
+          "id": 3,
+          "name": "Wat Ek Phnom",
+          "image": "/Wat Ek Phnom.jpg",
+          "description": "Adapts the architecture of the 11th century and was built  in 1027 during the reign of King Suryavarman I (1002-1050). It is located at Piem Ek commune 14 kilometers( 9 mi) from the provinceal town.",
+          "map": "https://www.google.com/maps/place/Ek+Phnom+Pagoda/@13.1627445,103.1882175,15z/data=!4m2!3m1!1s0x0:0x7ebd23a06dfe5208?sa=X&ved=2ahUKEwjCyJbh0rODAxVQ4jgGHVJ4Bq8Q_BJ6BAgkEAA"
+        },
+        {
+          "id": 4,
+          "name": "Banan Temple",
+          "image": "/Prasat Banan.jpg",
+          "description": "Adapts the architecture of the mid-11th century and the end of the 12th century; the temple was first built by King Dharanindravarman II (1050–1066) and was completed in its final form by the King Jayavarman VII (1181–1220). The temple is located on the top of a mountain approximately 400-meter-high (1,310 ft) located at Koh Tey 2 commune, Banan District. It can be reached by traveling 15 kilometers (9 mi) from the provincial town by the provincial road No 155, which runs parallel to the Sangker River. In the valley, there is Ku Teuk and two main natural wells, namely: Bit Meas and Chhung or Chhung Achey.",
+          "map": "https://www.google.com/maps/place/Banan+Temple+-+%E1%9E%97%E1%9F%92%E1%9E%93%E1%9F%86%E1%9E%94%E1%9E%B6%E1%9E%8E%E1%9E%93%E1%9F%8B/@12.9509276,103.1397819,15z/data=!4m6!3m5!1s0x3105392985b2436b:0x446c1bf534a2dbc7!8m2!3d12.9509276!4d103.1397819!16s%2Fg%2F11h1kvp50f?entry=ttu"
+        },
+        {
+          "id": 5,
+          "name": "Norry(Bamboo Train)",
+          "image": "/Norry-2.jpg",
+          "description": "The Norry, or bamboo train, runs 4 kilometers (2 mi) from Prasat Banan to Chhoeuteal commune. Previously located on actual railway tracks outside the city, the bamboo train was relocated in 2017 to make way for the resumption of railway traffic.",
+          "map": "https://www.google.com/maps/place/Bamboo+Train+Battambang/@13.0690648,103.2173499,15z/data=!4m6!3m5!1s0x3105498c558af879:0x294ea645bc43afa1!8m2!3d13.0690648!4d103.2173499!16s%2Fg%2F1hd_s7wtr?entry=ttu"
+        },
+        {
+          "id": 6,
+          "name": "Phnom Sampov",
+          "image": "/Phnom Sampov-4.jpg",
+          "description": "Is a natural resort located along the National Road No 57 (the former National Road No10) at Sam Puoy commune (the high land more than 100 meters (330 ft) high) and 12 kilometers (7 mi) from the provincial town of Battambang. On the top of Sam Puoy mountain, there is a temple and three natural wells, namely Pkar Slar, Lo Khuon and Ak Sopheak. Next to Sam Puoy mountain, there are some mountains, and natural sites like Phnom Trung Moan, Phnom Trung Tea and Phnom Neang Rum Say Sork. These mountains relate to the Cambodia folk legend of Reach Kol Neang Rum Say Sork.",
+          "map": "https://www.google.com/maps/place/Phnom+Sampow/@13.0232934,103.0978684,17z/data=!3m1!4b1!4m6!3m5!1s0x3105375f67283e3d:0xa465d2696683492e!8m2!3d13.0232882!4d103.1004433!16s%2Fg%2F11c0pwjbyp?entry=ttu"
+        },
+        {
+          "id": 7,
+          "name": "Sangkea River",
+          "image": "/Sangkea River-5.jpg",
+          "description": "It is one of the main rivers in Battambang Province in north western Cambodia. The river splits in two branches at the level of Khwaeng pagoda, 5 km (3.1 mi) south of Battambang city center. The smaller fork river flows through Sangkae village, 6 km (3.73 mi) east of Battambang city center, giving its name to Sangkae District.",
+          "map": "https://www.google.com/maps/place/Sangke/@13.2647133,103.7009607,13.44z/data=!4m14!1m7!3m6!1s0x3110049984f66fa7:0x846c964dcca71c1a!2sSangke!8m2!3d13.2743654!4d103.7011528!16s%2Fm%2F03hlg_2!3m5!1s0x3110049984f66fa7:0x846c964dcca71c1a!8m2!3d13.2743654!4d103.7011528!16s%2Fm%2F03hlg_2?entry=ttu"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Pailin",
+      "image": "/photos/allprovinces/Pailin.jpg",
+      "Description": "It is a province in western Cambodia at the northern edge of the Cardamom Mountains near the border of Thailand. Pailin is known for its natural resources, namely precious gems and timber.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Wat Phnom Yat",
+          "image": "/Wat Phnom Yat.jpg",
+          "description": "Built by Shan migrants from Myanmar in 1922, the Wat Phnom Yat is a holy place for worship in the heart of Pailin. It includes an old pagoda, similar to the Kola pagoda.",
+          "map": "https://maps.app.goo.gl/fPpgqsEhxQhk9aip7"
+        },
+        {
+          "id": 2,
+          "name": "Wat Rattanak Sophoan",
+          "image": "/wat-rattanak-sopoan.jpg",
+          "description": "At the foot of Phnom Yat is another pagoda, the Wat Rattanak Sophoan, a Burmese style pagoda more than 570 years of age. On the walls of the enclosure surrounding the pagoda is a bas-relief depicting the Hindu saga of the churning of the Ocean of Milk.",
+          "map": ": https://maps.app.goo.gl/eGwHPZ9HVw5khor17"
+        },
+        {
+          "id": 3,
+          "name": "O Ta Vao",
+          "image": "/O Ta vao in Pailin.jpg",
+          "description": "It is a natural site rich in beautiful scenery and clean water, which flows from Phnom Khieu.",
+          "map": "Location: is located in Sangkat O'Tavao, Khan Pailin, about 5 kilometers from Pailin city."
+        },
+        {
+          "id": 4,
+          "name": "Phnom Koy Resort",
+          "image": "/Phnom Koy resort.jpg",
+          "description": "Phnom Koy is a national site rich in forest and big lianas. A natural stream flows down this mountain.",
+          "map": "Location: is located in Sangkat Stung Kach, Khan Sala Krao, about 20 kilometers north of Pailin city."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Bonteay Meanchey",
+      "image": "/photos/allprovinces/Bonteay Meanchey.jpg",
+      "Description": "It is a province of Cambodia located in the far northwest. It borders the provinces of Oddar Meanchey to the north, Siem Reap to the east, Battambang to the south, and shares an international border with Thailand to the west. Its capital and largest city is Serei Saophoan. Banteay Meanchey is mostly covered by extensive lowlands, with a few uplands to the north and east. The main rivers are the Mongkol Borei and the Sisophon Rivers.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Banteay Chhmar",
+          "image": "/banteay chhmar-1.jpg",
+          "description": "Prasat Banteay Chhmar is one of the masterpieces of the great king Jayavarman VII built between the 12th-13th century. Despite its magnificent architecture, the temples are lesser known to tourists and the world. Unlike other Angkorean temples, Banteay Chhmar is not well-conserved. The damages caused by war, looters and nature are very apparent. The temple is being on Cambodia's tentative list for UNESCO's world heritage in order to increase conservation and awareness.",
+          "map": "https://maps.app.goo.gl/nBSmQGKdHhEY5NYs9"
+        },
+        {
+          "id": 2,
+          "name": "Laang Phnom Touch",
+          "image": "/la ang phnom touch.jpg",
+          "description": "It is the natural and cultural resort. The site features natural wells and big and small mountains with large stone faces and surfaces. From the mountaintops, visitors have a spectacular view of the natural forests and a pagoda on the mountain side. The site is popular with local people on festival days.",
+          "map": "https://maps.app.goo.gl/y3mrYNNTcLh9UcHE8"
+        },
+        {
+          "id": 3,
+          "name": "Phnom Chuncheang",
+          "image": "/Phnom Chuncheang.jpg",
+          "description": "3km (6mn) From Provincial Town. Nature Wildlife Preserves, Location: Road No. 5, Toek Tla Village, Toek Tla Commune, Serey Sophorn District.",
+          "map": "https://maps.app.goo.gl/3odF5uyRuijue6ru6"
+        },
+        {
+          "id": 4,
+          "name": "Banteay Torp",
+          "image": "/Banteay Torp.jpg",
+          "description": "It is called in Khmer (Banteay Torp) it means the army base. it is about 55 km from the provincial town. It was the biggest army base during the civil war since 1970.It is located in Road No. 69A of Banteay Chhmar Village, Banteay Chhmar Commune, Tmar Puok District. Today, it become a historical war place to the local and international tourists to visit.",
+          "map": "https://maps.app.goo.gl/W6wRaYRMtj7hA1ES6"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Siem Reap",
+      "image": "Sunset-at-Angkor-Wat-Siem-Reap-Cambodia.jpg",
+      "Description": "Siem Reap is a province located in the northwestern part of Cambodia, known for its rich history, cultural significance, and the famous Angkor Wat temple complex. Overall, Siem Reap Province is a destination that seamlessly blends history, culture, and natural beauty, making it a must-visit for those seeking a unique and enriching travel experience in Cambodia.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Angkor Wat Temple",
+          "image": "/Angkor Wat Temple.jpg",
+          "description": "The majestic and imposing main temple Angkor Wat draws most of tourist when coming to the Angkor complex. It will make people amazed with sculptures carved subtlety and skillfully on the walls and statues. Inside the temple there are over 1850 separate statues. Each of which is a work of art, a lifestyle and a dissimilar perspective about life. That would give you very interested stories. Especially when stay in Angkor Wat till late afternoon, tourists can enjoy amazing sunset moment. You can go shopping at prominent market taste special Khmer food.",
+          "map": "https://www.google.com/maps/place/Angkor+Wat/@13.4124745,103.8644108,17z/data=!3m1!4b1!4m6!3m5!1s0x3110168aea9a272d:0x3eaba81157b0418d!8m2!3d13.4124693!4d103.8669857!16zL20vMDE5eGZs?entry=ttu"
+        },
+        {
+          "id": 2,
+          "name": "Bayon Temple",
+          "image": "/Bayon Temple-4.jpg",
+          "description": "The Bayon Temple is a beautifully decorated Khmer Buddhist temple in the heart of Angkor Thom. Spectacular at sunrise. ts amazing towers, intricate carvings and many Buddha faces make it truly unique. Unfortunately, the third floor was closed on my last visit, but I still can't wait to go back and explore it! I highly recommend this beautiful temple to anyone visiting Angkor Wat.",
+          "map": "https://www.google.com/maps/place/Bayon+Temple/@13.4412831,103.8589036,15z/data=!4m2!3m1!1s0x0:0xa956c7b5e1b19d63?sa=X&ved=2ahUKEwi-1KHJ1rODAxW2wTgGHVwHCJEQ_BJ6BAgvEAA"
+        },
+        {
+          "id": 3,
+          "name": "Ta Prom Temple",
+          "image": "/Ta Prom Temple-1.jpg",
+          "description": "Ta Prohm Temple is a very popular part in a typical Angkor tour. It's the only major stop that wasn't fully reclaimed from the jungle. Many of the walls and structures have been smothered by huge silk-cotton trees and strangler figs, which grow over, around, and through the ancient stone blocks.",
+          "map": "https://www.google.com/maps/place/Ta+Prohm+Temple/@13.4347941,103.8893041,15z/data=!4m2!3m1!1s0x0:0xcfb9459e2f62051e?sa=X&ved=2ahUKEwijsYvu1rODAxWXxjgGHbtICTEQ_BJ6BAgmEAA"
+        },
+        {
+          "id": 4,
+          "name": "Banteay Srei Temple",
+          "image": "/Banteay Srei Temple.jpg",
+          "description": "Banteay Srei or Banteay Srey is a 10th-century Cambodian temple dedicated to the Hindu god Shiva. Located in the area of Angkor, it lies near the hill of Phnom Dei, 25 km north-east of the main group of temples that once belonged to the medieval capitals of Yasodharapura and Angkor Thom.",
+          "map": "https://www.google.com/maps/place/Banteay+Srei/@13.6002945,103.9695239,14z/data=!3m1!4b1!4m6!3m5!1s0x311043d9a8f504af:0x42ecca32e9086c44!8m2!3d13.6031005!4d103.9666115!16zL20vMDJoejh2?entry=ttu"
+        },
+        {
+          "id": 5,
+          "name": "Cambodia Landmine Museum",
+          "image": "/Cambodia Landmine Museum-1.jpg",
+          "description": "The Landmine Museum was founded by ex-child soldier Aki Ra as a way to tell the world about the horrors landmines had inflicted on his native Cambodia. He used the proceeds to clear landmines wherever he could find them. In the process of clearing small, remote villages, he began bringing home wounded and orphaned children. These children lived at the museum for over 10 years. Aki Ra also started Cambodian Self-Help Deming, an NGO that clears landmines. Today, Cambodian Self-Help Demining has cleared 9,361,685 square meters of land and 255 minefields. Please join us at the Cambodia Landmine Museum to learn about the history of landmines and what is being done now in Cambodia to clear them.",
+          "map": "https://www.google.com/maps/place/Cambodia+Landmine+Museum/@13.5395667,103.9458611,15z/data=!4m2!3m1!1s0x0:0xac29aa0aa3bc180e?sa=X&ved=2ahUKEwjYnJ2f17ODAxV_4TgGHWf6CMIQ_BJ6BAg1EAA"
+        },
+        {
+          "id": 6,
+          "name": "Pub Street",
+          "image": "/Pub Street.jpg",
+          "description": "Some may find it over-powering, but if you're looking for where everybody is, then Pub Street it is. Lined with restaurants and bars selling cheap beer and reasonable food. Later on, the music starts thumping and there's often almost a party atmosphere. People watching is free.",
+          "map": "https://www.google.com/maps/place/Street+08,+Krong+Siem+Reap/@13.3548051,103.8547351,17z/data=!3m1!4b1!4m6!3m5!1s0x3110176565345cf5:0x8b34e613032754ea!8m2!3d13.3548051!4d103.8547351!16s%2Fg%2F1tvm06g7?entry=ttu"
+        },
+        {
+          "id": 7,
+          "name": "Angkor National Museum",
+          "image": "/Angkor National Museum.jpg",
+          "description": "Angkor National Museum - The Legend Revealed During the Golden Era of the Khmer Kingdom, one of the ancient civilizations of this world was being created. It was the origin of Khmer art, culture, and architecture. These great inventions became one of the few wonders of the world that still amaze people throughout generations that still hold a great impact in present Cambodia society. Angkor National Museum takes pride in revealing the royal historical path of this Golden Era of the Khmer Kingdom through state of the art multimedia technology to provide visitors a full pictorial story of the legend for easy comprehension. Angkor National Museum will take its visitors through the journey back in time from the creation to the highest point of Khmer civilization. Through the use of interactive exhibits, visitors will develop a deeper understanding of customs, traditions and different beliefs of the ancient empire.",
+          "map": "https://www.google.com/maps/place/Angkor+National+Museum/@13.3664465,103.8601195,15z/data=!4m2!3m1!1s0x0:0x9f46043c5565afe3?sa=X&ved=2ahUKEwid25TN17ODAxUHoGMGHTXqDVkQ_BJ6BAgzEAA"
+        },
+        {
+          "id": 8,
+          "name": "Baphuon Temple",
+          "image": "/Baphuon Temple.jpg",
+          "description": "Baphuon is often included on the Small Angkor Wat Circuit Tour. Most commonly, it’s visited when you’ve just finished at Bayon. You’ll start with the Terrace of the Elephants before walking along the 225m causeway. On the way back, you’ll probably stop at the Terrace of the Leper King and explore other nearby temples including Phimeanakas. However, the view from the top of the temple and the relative peace and quiet make this an excellent choice for visitors.",
+          "map": "https://www.google.com/maps/place/Baphuon/@13.4438678,103.8563532,15z/data=!4m2!3m1!1s0x0:0xc20d200b2c486b9e?sa=X&ved=2ahUKEwjqu87o17ODAxXNxjgGHRH2ANAQ_BJ6BAggEAA"
+        },
+        {
+          "id": 9,
+          "name": "Neak Pean Temple",
+          "image": "/Neak Pean Temple.jpg",
+          "description": "This temple has a large square pool surrounded by four smaller square pools, with a circular ‘island’ in the middle encircled by the two nagas whose intertwined tails give the temple its name. Water once flowed into the four pools via four ornamental spouts, in the form of an elephant’s head, a horse’s head, a lion’s head and a human head. In the pool around the central island there were once four statues, but only one remains, reconstructed from the debris by the French archaeologists who cleared the site. The curious figure has the body of a horse supported by a tangle of human legs. It relates to a legend that Avalokiteshvara once saved a group of shipwrecked followers from an island of ghouls by transforming into a flying horse.",
+          "map": "https://www.google.com/maps/place/Neak+Poan/@13.463308,103.8949176,15z/data=!4m6!3m5!1s0x3110159702fbaa21:0xfad28f864834b955!8m2!3d13.463308!4d103.8949176!16zL20vMDJiMHB3?entry=ttu"
+        },
+        {
+          "id": 10,
+          "name": "Theam’s Gallery",
+          "image": "/Galary of Theam-3.jpg",
+          "description": "Located a mere 10 minutes from the majestic temples of Angkor, Theam’s Gallery (formely Theam's House Gallery) is the home-cum-gallery of Master Cambodian Artist, Lim Muy Theam. As you step from one breath-taking pavilion to the next, you experience a sanctuary of serenity and a true visual feast. This lush space invites you to explore and immerse yourself in Khmer culture at its very best through Theam’s impressive private collection of local artefacts. Witness young apprentice artisans painting, sculpting and lacquering, while discovering the colourful contemporary creations of Theam himself. The gallery features a professionally curated showroom exhibiting all artwork conceived and produced onsite. This exquisite visual arts space gives visitors an authentic insight into the distinctive world of Cambodian art. Located in the tropical courtyard, Theam’s Café & Lounge serves a selection of coffee and fresh juice daily.",
+          "map": "https://www.google.com/maps/place/%D0%A2heam's+Gallery/@13.3847914,103.8523702,15z/data=!4m6!3m5!1s0x3110171c6b0a9547:0xd83db62182aa7628!8m2!3d13.3847914!4d103.8523702!16s%2Fg%2F1tdkp7k3?entry=ttu"
+        },
+        {
+          "id": 11,
+          "name": "Chocolate Gardens",
+          "image": "/chocolate-garden.jpeg",
+          "description": "Chocolate Gardensis a place where you can find many destinations and activities from local guides' recommendations. There will be few tips for travelers to understand their destinations better before making a decision. At the same time, you will find more activities you could do nearby or at the same destination.",
+          "map": "https://www.google.com/maps/place/Chocolate+Gardens+%E1%9E%9F%E1%9E%BD%E1%9E%93%E1%9E%9F%E1%9E%BC%E1%9E%80%E1%9E%BC%E1%9E%A1%E1%9E%B6/@13.3477612,103.8616115,15z/data=!4m6!3m5!1s0x311017e807e37df1:0x2c7101e02bbf319f!8m2!3d13.3477612!4d103.8616115!16s%2Fg%2F11rtvh0xml?entry=ttu"
+        },
+        {
+          "id": 12,
+          "name": "Kanmu Cafe",
+          "image": "/kanmo-cafe.jpeg",
+          "description": "At Kamu, Kinal serves coffee made with beans from Laos, Chiang Rai, Ethiopia, Columbia, and Kenya. One bean he is yet to use is Cambodia’s Mondulkiri. The coffee shop owner and barista said he has not found the best way to use beans from Cambodia’s mountainous province.",
+          "map": "https://www.google.com/maps/place/%E1%9E%80%E1%9E%B6%E1%9F%86%E1%9E%98%E1%9E%B9+%E1%9E%80%E1%9E%B6%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9F%81+KANMU+%23%E3%81%8B%E3%82%93%E3%82%80/@13.3477817,103.8573613,15z/data=!4m6!3m5!1s0x31101741589b217f:0xdea399c3776377e6!8m2!3d13.3477817!4d103.8573613!16s%2Fg%2F11s9dbgm1w?entry=ttu"
+        },
+        {
+          "id": 13,
+          "name": "Gelato and Coffee Lab",
+          "image": "/Gelato-and-Coffee-Lab.jpeg",
+          "description": "Gelato Lab is a unique new addition to the bustling center of Siem Reap. Located close to Old Market and Pub Street, we offer a refreshing break from the busy streets. Our traditional homemade gelato is made from fresh whole milk, imported from Thailand and slow-churned to perfection. ",
+          "map": "https://www.google.com/maps/place/Gelato+Lab/@13.3542567,103.8540862,15z/data=!4m6!3m5!1s0x311017655b40cf91:0x9b40f492ce2a277a!8m2!3d13.3542567!4d103.8540862!16s%2Fg%2F11b6y4z435?entry=ttu"
+        },
+        {
+          "id": 14,
+          "name": "Phnom Krom Eco Resort",
+          "image": "/pnhom-krom.jpeg",
+          "description": "Visiting the Pnom Krom Eco Resort can best be combined with a visit to the largest lake in South-East Asia, the Tongle Sap Lake and a visit to the Phnom Krom temple. All sites are centered in an area of 2 or 3 squere kilometers and around 8 kilomters from the center of Siem Reap.",
+          "map": "https://www.google.com/maps/place/Phnom+Krom+Eco+Resort/@13.310066,103.8293997,15z/data=!4m6!3m5!1s0x3110198517acff95:0x51964902a089cf7!8m2!3d13.310066!4d103.8293997!16s%2Fg%2F11g7ctl788?entry=ttu"
+        },
+        {
+          "id": 15,
+          "name": "Triple Tree Cafe",
+          "image": "/Triple-Tree.jpg",
+          "description": "Triple Tree cafe is a cozy air conditioning restaurant near the ancient Khmer’s ancestral temples, perfectly offers various delicious Cambodian food and drinks after your full morning exploration at the Angkor temples and it is the perfect place to escape from the heat during the day time.",
+          "map": "https://www.google.com/maps/place/Triple+Tree+Cafe/@13.3509463,103.8614584,15z/data=!4m6!3m5!1s0x3110174d52127825:0x450e6b580a1f399f!8m2!3d13.3509463!4d103.8614584!16s%2Fg%2F11rmr_d5np?entry=ttu"
+        },
+        {
+          "id": 16,
+          "name": "PreahAng Chek PreahAng Chorm Shrine",
+          "image": "/preah-ang-chek.jpeg",
+          "description": "The Preah Ang Chek Preah Ang Chorm shrine is a religious shrine in Siem Reap, Cambodia. It is located within the compound of the Royal Residence where two statues referred to as Preah Ang Chek and Preah Ang Chorm are worshipped since 1982.",
+          "map": "https://www.google.com/search?q=%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9F%87%E1%9E%A2%E1%9E%84%E1%9F%92%E1%9E%82%E1%9E%85%E1%9F%81%E1%9E%80%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9F%87%E1%9E%A2%E1%9E%84%E1%9F%92%E1%9E%82%E1%9E%85%E1%9E%98&rlz=1C5CHFA_enKH1037KH1037&oq=%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9F%87%E1%9E%A2%E1%9E%84%E1%9F%92%E1%9E%82%E1%9E%85%E1%9F%81%E1%9E%80%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9F%87%E1%9E%A2%E1%9E%84%E1%9F%92%E1%9E%82%E1%9E%85%E1%9E%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTI3Njc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#eim=CAE"
+        },
+        {
+          "id": 17,
+          "name": "The Heritage Walk",
+          "image": "/Heritage-walk.jpeg",
+          "description": "The Heritage Walk is the first-of-its-kind lifestyle complex situated in the most prestigious neighborhood in Siem Reap, Steps away from just about any landmarks in town. Dine, sip, chill, ship or watch movie. Or simply just walk around, hang out with friends and experience the best of The Heritage Walk has to offer, all under one roof.",
+          "map": "https://www.google.com/maps/place/The+Heritage+Walk/@13.3625868,103.857276,15z/data=!4m6!3m5!1s0x311017727a9d5d67:0x6412ea4d850e6a6e!8m2!3d13.3625868!4d103.857276!16s%2Fg%2F11dfvhqlw4?entry=ttu"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Kompong Thom",
+      "image": "/photos/allprovinces/Kompong Thom.jpg",
+      "Description": "It is a province (khaet) of Cambodia. It borders the provinces of Siem Reap to the northwest, Preah Vihear to the north, Stung Treng to the northeast, Kratie to the east, Kampong Cham and Kampong Chhnang to the south, and the Tonle Sap to the west. Kampong Thom is Cambodia's second largest province by area. There are a number of significant Angkorian sites in the area, including Prasat Sambor Prei Kuk and Prasat Andet temples. As one of the nine provinces bordering Tonle Sap Lake",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Prasat Yeah Puon Group",
+          "image": "/Prasat Yeah Puon Group.jpg",
+          "description": "Prasat Yeah Puon Group comprised a total of 22 sanctuaries (5 have octagonal shapes) with two wall ramparts, and was built of brick, masonry, laterite and sandstone in rectangular from in 7th century (600-635) during the reign of Isanavarman I to dedicated to Shiva. They were built on a hill with Gopura from the eastern and western entrances joining to an outside laterite rampart. The inner rampart reached by gateways from the four directions and joined to the brick rampart carved in various clustering figures.",
+          "map": "https://maps.app.goo.gl/1MJnvG54GoGns43s7"
+        },
+        {
+          "id": 2,
+          "name": "Phnom SanTuk",
+          "image": "/Phnom SanTuk.jpg",
+          "description": "Phnom Santuk Mountain has many Buddha statues carved from great mountain rock including three big Buddha statues reaching Nirvana, each measure than 10-meter length. Phnom Santuk has changed names to Chorn Chong Kiri and Phnom Krop Tuk. Chan Chan Dare or Chan Chare are called two pieces of stone by local people that join all together in marked symbol and made in small hole. When cash coins are dropped in, it makes soft weak voice like a voice of the birds sing or music with happiness. So they did that since ancient period.",
+          "map": "https://maps.app.goo.gl/cMevKJwPTnXHNbpD7"
+        },
+        {
+          "id": 3,
+          "name": "Sambo Prey Kuk Temple",
+          "image": "/Sambo Prei Kuk-1.jpg",
+          "description": "The now ruined complex dates back to the Pre-Angkorian Chenla Kingdom (late 6th to 9th century), established by king Isanavarman I as central royal sanctuary and capital, known then as Isanapura. In 2017, Sambor Prei Kuk was declared a UNESCO World Heritage Site. the central part of Sambor Prei Kuk is divided into three main groups. Each group has a square layout surrounded by a brick wall. The structures of the overall archaeological area were constructed at variable times: the southern and north groups (7th century) by Isanavarman I, who is considered a possible founder of the city and the central group (later date). The buildings of Sambor Prei Kuk are characteristic of the pre-Angkorean period with a simple external plan.",
+          "map": "https://maps.app.goo.gl/x8oKKjYZnMMyXUP88"
+        },
+        {
+          "id": 4,
+          "name": "Wat Kuhak Nokor",
+          "image": "/Wat Kuhak Nokor.jpg",
+          "description": "Wat Kuhak Nokor is an eleventh-century site with a collection of laterite and sandstone buildings in a well-maintained 200 square meters park surrounded by a large sandstone rampart 3 meters in height. Built during the reign of King Suryavarman I, the style is similar to the Tonlé Bati temple.",
+          "map": "https://maps.app.goo.gl/sF5kZDQL2ypoSpiR8"
+        },
+        {
+          "id": 5,
+          "name": "Andet Temple",
+          "image": "/Andet Temple.jpg",
+          "description": "Andet temple, built in the Prei Kmeng style with one single brick tower, now nestles snugly alongside a modern Buddhist wat.  This was built in the latter part of the seventh century under Jayavarman I. In the central group of temples, the decorative details of Prasat Tor (Lion temple) are similar in style to the ruins belonging to the period of king Jayavarman II of the ninth century.",
+          "map": "https://maps.app.goo.gl/whV5a4CQtKrjmHrF8"
+        },
+        {
+          "id": 6,
+          "name": "Prey Pros",
+          "image": "/Prey Pros-2.jpg",
+          "description": "The site covers an area of 2 million square meters and includes a river which is rich in Domrei fish. The site is a venue for foot races, bicycle races, and other games during national festivals. In addition, there are several recreational activities such as boating, fishing and swimming, with resting cottage where food and drinks are sold. The view from Prey Pros is beautiful and enchanting, with wind blowing across the river cooling and refreshing visitors.",
+          "map": "https://maps.app.goo.gl/UML9P2R1zMb8syyP9"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Prey Veng",
+      "image": "/photos/allprovinces/Prey Venh.jpg",
+      "Description": "It is a province of Cambodia. The capital is Prey Veng. With a population of 1.1 million people, it is the third most populous province. This densely populated agricultural region is located on the east bank of the Mekong. The name literally means long forest in Khmer, but the last great forests have gradually disappeared there over 30-year to provide for agricultural land. The province boasts of silt deposited in each flood, this makes the region conducive to agriculture and fishing. It is part of what is called the great green belt of Cambodia.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Ba Phnom",
+          "image": "/Ba Phnom.jpg",
+          "description": "Its name literally means ancestor of the hill. There is actually a mound of 139 meters. Archaeological research has shown that it was an important cultural center of the kingdom of Fu-Nan, and a sacred place in which they worshipped Shiva. The site seems to have retained its sacred character throughout the Angkor period, and traces of animist and Buddhist rituals have also been found. The view from the top of Ba Phnom is very picturesque. There is a big, rocky cave near the mountaintop that shelters wildlife.",
+          "map": "https://maps.app.goo.gl/2Ft7GQFgBkAPkEiz6"
+        },
+        {
+          "id": 2,
+          "name": "Chong Srok Temple",
+          "image": "/Chong Srok Temple.jpg",
+          "description": "Chong Srok temple was built of brick and sandstone in the 7th century. It was built on a high ground in a field of palm trees near a Koki tree. Although much of the temple has been destroyed, there remains a sandstone statue of a bull, once revered as a powerful Bodhisattva, or a Buddhist deity. The Prey Chong Srok Temple, Prey Veng is an amazing destination. The ride to the temple is worth remembering as the sceneries of the outskirts of Prey Veng province is very beautiful.",
+          "map": "https://maps.app.goo.gl/nM5ps6KEmd1Agkm66"
+        },
+        {
+          "id": 3,
+          "name": "Vihear Chan Temple",
+          "image": "/Vihear Chan temple.jpg",
+          "description": "The Travelers won't face any difficulty in reaching this beautiful temple as the location of Vihear Chan Temple, Prey Veng is well connected. It's better if you hire a car or a tourist bus before going to visit this religious spot. The Vihear Chan Temple, Prey Veng is a wonderful site from where the travelers will get to know a lot about the religion of the Prey Veng people. The temple will also let you know more about the customs and rituals followed by the people of Prey Veng after visiting this temple. The Vihear Chan Temple, Prey Veng can be reached within one hour from the provincial town. The Vihear Chan Temple, Prey Veng has a wonderful architecture. The travelers are awed at the beauty of the architecture. So don't miss being at the Vihear Chan Temple, Prey Veng while on a trip to Prey Veng.",
+          "map": "Location: is located in Rong Dam Rey Village Cheung Phnom Commune, Bar Phnom District, about 30 km (1h) From Provincial Town."
+        },
+        {
+          "id": 4,
+          "name": "Baray Andet Resort",
+          "image": "/Baray Andet Resort.jpg",
+          "description": "This resort has a plain hill and big tree surrounded the people believe that Baray Andet is the powerful and sacred place for swearing and wishing. The music of Pin Piet is usually concerted for offering to Neak Ta one very Buddhist holiday, festival day or Sunday for asking for happiness and rain.",
+          "map": "Location: Located at Baray village, Baray commune, Prey Veng District in three-Kilometer distance west of the provincial town of Prey Veng."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Svay Rieng",
+      "image": "/photos/allprovinces/Svay Reang.jpg",
+      "Description": "It is a province (khaet) in Cambodia. Located in the southeast, the province juts into Vietnam (Long An and Tây Ninh), which surrounds it to the north, east and south. The capital is Svay Rieng while the largest city is Bavet, which is the international border between Cambodia and Vietnam.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Bavet International Border",
+          "image": "/Bavet International Border.jpg",
+          "description": "The Bavet checkpoint is the main international border crossing for people traveling between Phnom Penh and Ho Chi Minh City. Bavet's main attractions are two casinos that are within short walking distance of the border. These casinos are very popular with foreigners crossing the border. There is also a market, Psar Nat, where goods are transferred between Cambodia and Vietnam.",
+          "map": "https://maps.app.goo.gl/vwqMjJLJxUte29iq8"
+        },
+        {
+          "id": 2,
+          "name": "Prey Ba Sak",
+          "image": "/prey-ba-sak.jpg",
+          "description": "The area of Prey Ba Sak has 84 square meters and borders river of Vag Ko at the North and the East, village of local people at the west and the South. The resort of Prey Ba Sak can provide income to the state and attracts local visitors to spend their visit and pleasure there. So, the resort is trending to develop for local visitors in Svay Rieng province due to their tradition, and for international tourists due to the real Cambodian culture and civilization. Prey Ba Sak located on the hill, the former place of ancient temple, which was completely damaged by war. Nowadays, in order to change this place to be the attractive site for local and international tourists, the provincial tourist office should initially rearrange the place and statues for local visitors to worship during festival days or their travel. Prey Ba Sak is the place, which has the most complex forest among others in Svay Rieng province.",
+          "map": "Location: Located in Svay Rieng District at the Southeast of the provincial town in the distance of 8.5 kilometers from the provincial town."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Takeo",
+      "image": "/photos/allprovinces/Takaev.JPG",
+      "Description": "Takéo Located in the south of Cambodia to the west of Bassac River, Takeo borders the provinces of Kampot to the west, Kampong Speu to the northwest and Kandal to the north and east. Its southern boundary is the international border with Vietnam (An Giang). The provincial capital, recently known as the provincial town Doun Kaev (formerly called Takeo), is a small city with a population of 39,186. Takéo is often referred to as the cradle of Khmer civilization due to the former kingdom of Funan and its successor, Water Chenla [km], being centered in the region.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Phnom Ta Mao",
+          "image": "/Ta Mao Zoo.jpg",
+          "description": "About 10 kilometers further down the same road No 2 from Ta Prom temple, Ta Mao Zoo enjoys a picturesque location. The involvement of several wildlife NGOs has helped ensure that most of the zoo is of a fairly humane standard, although work to improve the conditions is ongoing. There are several outstanding enclosures, one of which houses the tigers, bears and elephants etc. A good place to experience Cambodia's wildlife at chose quarters. Small entry fee.",
+          "map": "https://maps.app.goo.gl/ztdqGrTqYh5MNsZo8"
+        },
+        {
+          "id": 2,
+          "name": "Neang Khmao Temple",
+          "image": "/new-Neang-Khmao-Temple.jpg",
+          "description": "A brick and sandstone temple in poor condition about 10 km from Ta Mao Zoo further along National Route 2. Built in the nine century and located in Rovieng Commune, Samrong district, this is the temple mentioned in the legend of Takeo's naming. About 58 km Phnom Penh.",
+          "map": "https://maps.app.goo.gl/p5NsBT2HqMQ2uVpu7"
+        },
+        {
+          "id": 3,
+          "name": "Phnom Chiso ",
+          "image": "/Phnom Chiso.jpg",
+          "description": "High on a mountain, this beautiful temple with spectacular views lies at the end of a 412 step walk from the southern side, and on its eastern side for a drive to the top. Also located in Rovieng Commune, Samrong District, two kilometers past Neang Khmao Temple then turn down left, the oldest sections of the atmospheric ruins date back to the early 11th century. Built by Suryavarman I (of Angkor Wat fame), the temple is a small but impressive lateritic and sandstone structure.",
+          "map": "https://maps.app.goo.gl/LZzHekgpkt9sRP117"
+        },
+        {
+          "id": 4,
+          "name": "Phnom Bayong Koa Temple",
+          "image": "/Phnom Bayong Koa Temple.jpg",
+          "description": "Some 40 km away from the central city of Takeo province, are two groups of ruins dating back to the pre-Angkorian period. At these sites, there is the bigger group, belonging to the Bayong Koa and a smaller at the Ta Nhean temple. Surrounding the temples is green a lush forest exuding a heavy scent of a dense jungle, obviously left undisturbed for a very long while.  It requires a good pair of shoes to explore these areas since the 390 steps that rise more than 300 meters to the foot of the Bayong Koa temple is no easy climb for some.",
+          "map": "https://maps.app.goo.gl/MmzMvzzuj7eNNBJU9"
+        },
+        {
+          "id": 5,
+          "name": "Ta Nhean Temple",
+          "image": "/Ta Nhean temple.jpg",
+          "description": "Some 3 km away from the Bayong Koa temple is Ta Nhean (which means 'grandfather Nhean' in Khmer language) temples group were erected in the early 7th century by King Bhavarman I in homage to the Hindu god Shiva. Built of brick, lateritic and sandstone, the temple is stylistically different from many of Cambodia's better-known ancient structures between Prey Khmeng and Sambo Prey Kuk stylist. Further down the dirt road, there are villages of Preah Bat Chann Chum commune ready to welcome visitors and tourists with locally homegrown organic fruits for cheap price. At the farmer's market, one can purchase hiking shoes and hats to climbing the temples. Local tour guide are available to lead the climbing tour and explain the temple history.",
+          "map": "https://maps.app.goo.gl/67pRLZAvCjyYQ7V56"
+        },
+        {
+          "id": 6,
+          "name": "Phnom Kleng Mountain ",
+          "image": "/Phnom Kleng.jpg",
+          "description": "Wat Phnom Kleng is one of the monasteries since 18th century, and built in the 1950s by a famous local monk. Thanks to the generous support from the people, the monastery has become a popular place in Takeo province. On the weekends, locals and non locals go there to pray for lucky and happiness. What makes Phnom Kleng special scenery is that pagoda were surrounded by rice-fields. Thus, the pagoda offers natural beauty, fresh air and tranquility. If one is bold enough to climb to the peak of the mountain, the summit provides panoramic view of the countryside. Phnom Kleng is located in the Prey Slek commune of Traing district, Takeo province, at a distance 100 km from Phnom Penh. Travel along Road No. 2 until you arrive at Takeo Town, straight along away about 15 km.",
+          "map": ""
+        },
+        {
+          "id": 7,
+          "name": "Ta Keo Museum",
+          "image": "/Angkor Borei and Ta Keo Museum.jpg",
+          "description": "There're two museums have been established in Takeo province, one located at Angkor Borei district nearby the Phnom Da temple and the other is in the central part of Takeo town. This provincial museum is one of the most interesting design and layout which adopted to the most artistic style to Phnom Da architectural arts.",
+          "map": "https://maps.app.goo.gl/iBEYB1pmwQkAFveD6"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Kompong Speu",
+      "image": "/photos/allprovinces/Kompong Smeu.jpg",
+      "Description": "It is a province of Cambodia. It borders the provinces of Pursat and Kampong Chhnang to the north, Kandal to the east, Takéo to the southeast, Kampot to the south and Koh Kong to the west. Its capital is the town of Chbar Mon.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Phnom Aural",
+          "image": "/Phnom Aural-4.png",
+          "description": "Also spelled Phnom Aoral, is the tallest peak in Cambodia. It is 1,813 meters tall[1] (other sources give elevations between 1,771 and f1,667 meters). It is in the eastern part of the Cardamom Mountains. To protect the biodiversity of the mountains, Phnom Aural Wildlife Sanctuary was established in 1993. This mountain in located in Aoral District, Kampong Speu Province.",
+          "map": "https://maps.app.goo.gl/aweLo8ykDTmfSrcy7"
+        },
+        {
+          "id": 2,
+          "name": "Kirirom National Park",
+          "image": "/Kirirom National Park camping park-3.jpg",
+          "description": "officially called Preah Suramarit-Kossamak Kirirom National Park, is a national park in Cambodia located in the eastern part of the Cardamom Mountains at a mean elevation of 675 m (2,215 ft). It is Cambodia's first officially designated national park. The meaning of 'Kirirom' is 'Happy Mountain'. This name was given to the area by King Monivong in the 1930s. The ancient name of the place was Phnom Vorvong Sorvong for the main two hills there were connected with the Cambodian popular legend about two heroic princely brothers Vorvong and Sorvong.",
+          "map": "https://maps.app.goo.gl/WQbp46JNmZE2PcVw8"
+        },
+        {
+          "id": 3,
+          "name": "Chreav Waterfall",
+          "image": "/chreav.webp",
+          "description": "Chreav Waterfall is in the category of the Waterfall, Natural tourism site. Things to do, as well as the attractions of Chreav Waterfall for you such as Swimming, Having picnic, Trekking, Cottage and more. it is easy because it is not necessary to walk and cross the river or take a boat. For parking, you can park directly at the location.",
+          "map": "https://maps.app.goo.gl/D9ekCcMjW672TK4H9"
+        },
+        {
+          "id": 4,
+          "name": "Coconut School",
+          "image": "/coconut-school.jpeg",
+          "description": "The name 'Kirirom' meaning Mountain of Joy was given to it by the King of Cambodia. Kirirom National Park, a high-altitude plateau, is known for its unique high elevation pine forest, which forms the headwaters for numerous streams feeding Kampong Speu Town. Besides this, we are one of the main schools called Coconut School where is the center that organized kid from the village and some of them were homeless and suffered from starvation.",
+          "map": "https://maps.app.goo.gl/udCRf56rQsWPbaju5"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Steng Treng",
+      "image": "/photos/allprovinces/Steng Traeng.jpg",
+      "Description": "A charming province located on a high sandy bank overlooking Mekong River, is about 455 km North of Phnom Penh and 40 km south of the Laos border. The town is link to Banlung (Ratanakiri) and serves more than just a stopover. It is an important trading hub between Cambodia and Laos. The Sekong Bridge provides a convenient gateway from the border of Laos.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Kampi Dolphin Site",
+          "image": "/Kampi Dolphin Site.jpg",
+          "description": "Kampi is the best place in Cambodia to see the rare Mekong River Dolphin. Kampi Dolphin pool is the most inhabited dolphin pool in the Mekong River with about 20 dolphins. Kampi Dolphin Site was established in 1999 to welcome international and local tourists and for scientific researchers to study the Mekong River Dolphin.",
+          "map": "https://maps.app.goo.gl/Nq6rkoPcHRN3E6ej9"
+        },
+        {
+          "id": 2,
+          "name": "Watching Seam Pang Bird",
+          "image": "/Seam Pang Bird & Wildlife Watching at Western Siem Pang.webp",
+          "description": "Bird watching in Seam Pang can be undertaken in Virak Chey National Park, which is home to hundreds of bird species, many of which are endangered. December through March is the best time to visit this highland bird sanctuary when many of the lowland ponds inside the area and Virak Chey National Park have dried up and most of the birds fly along the upper Se Kong River. Seam Pang with its verdant and lush tropical forests is one of the best nature conservation regions in the province. However, this remote wildlife area is only accessible by boat from Stung Treng town to Seam Pang district town about 80 km. away. Then the journey is continued by hiring a small rowboat or by bicycling through this tranquil and unspoiled wildlife paradise. The ten park rangers are the best guides for visitors. There is one local guest house named 'Theany Guesthouse' established a few years ago for your accommodation and meals.",
+          "map": "https://maps.app.goo.gl/mGcukX4Bhmg4NiQb9"
+        },
+        {
+          "id": 3,
+          "name": "Preah Ko Temple",
+          "image": "/Preah Ko Temple.jpg",
+          "description": "Preah Ko temple was built using only a few distinct materials, mostly red brick and sandstone. Today, what remains of this temple is the main tower and several temple ruins surrounding the main tower. it was built in the 6th-7th Centuries, during the reign of King Jayavarman I, in dedication to Brahmanism religion. ",
+          "map": "Location: The Preah Ko temple site is located in Thala commune, Thala Borivath district, about  two kilometers from the provincial town."
+        },
+        {
+          "id": 4,
+          "name": "Preah Rumkel",
+          "image": "/Preah Rumkel.jpg",
+          "description": "the first home stays were set up by several communities under the guidelines of a tourist expert. These home stays are idea for visitors who want to experience how local villagers live. There are many attractive sites such as the Sopeakmith waterfall (Preah Nimith Waterfall), which has extremely strong flow during the rainy season although low flow during the dry season. Tourists can reach Preah Rumkel communities’ eco-tourism area by boat, just an hour from Stung Treng town. The cost per person round trip is 50,000 riel (US$12.25). Visitors can enjoy the spectacular views of trees while floating down the river and also see many different kinds of birds.",
+          "map": "https://maps.app.goo.gl/rEikS4YFYWWyTrqu7"
+        },
+        {
+          "id": 5,
+          "name": "Ramsar of Cambodia’s Mekong River",
+          "image": "/Ramsar of Cambodia Mekong River.jpg",
+          "description": "Ramsar is a word meaning ‘wetland conservation area’. In the Kingdom of Cambodia. The Royal Government of Cambodia classified this upper Mekong River area as a Ramsar conservation area of the kingdom in 1999. It covers 14,600 hectares of the surrounding river area. We can see most of the mangrove trees along the river have many roots with some trees having roots far up the side of the tree. As the water level goes down, the roots appear to climb up a higher portion of the tree. But during the rainy season, most of the tree is under water. These trees are very tall and some can reach 20 meters in height. One of the highlights of the Ramsar area is the Mekong dolphin. There is a large group of dolphins living along this conservation zone, Seang Tana said The Royal Government of Cambodia has set up a Dolphin Authority to protect this very rare mammal.",
+          "map": "https://maps.app.goo.gl/vm3pFejnZX84tTz76"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Mondolkiri",
+      "image": "/photos/allprovinces/Mondolkiri.jpg",
+      "Description": "Mondulkiri is about 543km north of Phnom Penh. Known as its forested hills and beautiful waterfalls, Mondulkiri is one of the most popular destinations for Eco-tourism in Cambodia.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Rum Near II waterfall",
+          "image": "/rum near ii waterfall in cambodia.jpg",
+          "description": "During the rainy season, the waterfall is 3 meters in height and 10 meters in diameter. During the dry season, the waterfall is 4 meters in height and 6 meters in diameter. there is a big water reservoir in which tourists can swim happily. Besides, there are many big trees providing cool shade for them. Its main points of interest are a spectacular waterfall, dramatic mountainous forest, impressive undulating hills, and fresh air.",
+          "map": "Location: In Pourang Village, Sèn Monorom Commune, Oreang District; 12 km from the provincial town. It can be accessed by the Road No. 76."
+        },
+        {
+          "id": 2,
+          "name": "Phnom Kraol Resort",
+          "image": "/Phnom Kraol Cultural Resort.jpg",
+          "description": "The main point of interest is a place of worship on the mountaintop for the residents. Many tourists visit here to pray for happiness and prosperity. Nowadays, it is main tourist attraction which draws inbound international and internal tourists.",
+          "map": "Location: Orayes Village, Sre Sangkom Commune, Koh Nheak District, Mondulkiri Province, 3 km from center of Koh Nheak District and 111 km from Senmonorom City."
+        },
+        {
+          "id": 3,
+          "name": "Pou Tang Village",
+          "image": "/Pou Tang Village.webp",
+          "description": "The main points of interest are spectacular waterfall, dramatic mountainous forest, impressive undulated hills, fresh air and local villages of indigenous people. This area provide a good opportunity to explor for pinic, trekking, swimming. Especially, it can be introduced visiting local villages and the culture of the indigenous people and shopping the souvenirs made by local people.",
+          "map": "Location: Poules and Pouchhob villages, Dakdam Commune, Ou Reang District, Mondulkiri Province, 20 km from Senmonorom City."
+        },
+        {
+          "id": 4,
+          "name": "Samuth Chher",
+          "image": "/Samuth Chher.jpg",
+          "description": "It is a nice place for a great view over the hills and forests of Mondulkiri. That’s why called Ocean Tree? It is not full of water, but it is full of trees. When we view from the top of the hill, the tree seem waving like ocean water",
+          "map": "https://maps.app.goo.gl/GEVDKHi5RmsRLcTU7"
+        },
+        {
+          "id": 5,
+          "name": "Romanea I waterfall",
+          "image": "/Romanea I waterfall-1.jpg",
+          "description": "It is close to the plantations like rubber, coffee, cashew, mango, avocado, and pres. Its main points of interest are a spectacular waterfall, dramatic mountainous forest, impressive undulating hills, and fresh air.",
+          "map": "https://maps.app.goo.gl/Hj1XAMZKAC5J2EWG9"
+        },
+        {
+          "id": 6,
+          "name": "Chrey Yos Waterfall",
+          "image": "/Chrey Yos Waterfall.jpg",
+          "description": "Its main points of interest are a spectacular waterfall, dramatic mountainous forest, impressive undulating hills, and fresh air. This resort is managed by the provincial executive committee. It is partly supported financially by the DANIDA Organization of Denmark.",
+          "map": "Location: In Laoka Village, Sokhdom Commune and Pouloung Village, Romanea Commune, Sèn Monorom District; 6 km from the provincial town. It can be accessed by the red pebble path."
+        },
+        {
+          "id": 7,
+          "name": "Leng Tao Waterfall",
+          "image": "/Leng Tao Waterfall.jpg",
+          "description": "There are 143 families living in the Lèng Tao area, whose main occupations are farming. Its main points of interest are a spectacular waterfall, dramatic mountainous forest, impressive undulating hills, and fresh air.",
+          "map": "Location: is located in Pouloung Village, Romanea Commune, Sèn Monorom District; 15 km from the provincial town. It can be reached by path."
+        },
+        {
+          "id": 8,
+          "name": "Lek Pok Bras Waterfall",
+          "image": "/Leng Khin Waterfall-1.jpg",
+          "description": "During the rainy season, the waterfall is 8 meters in height and 39 meters in diameter. During the dry season, the waterfall is 10 meters in height and 20 meters in diameter. Its main points of interest are a spectacular waterfall, dramatic mountainous forest, impressive undulating hills, and fresh air. Next to Lak Pok Bras waterfall is the home indigenous ethnic group people living for centuries and remains a center for cultural diversity in this region. These minority such as Phnong, Stieng, Kuoy, Tum Poun and Charay people continue to depend on the natural resources of Mondulkiri province for their survival.",
+          "map": "Location: is located in Romanea Commune, Sen Monorom District; 13 km from the provincial town. It can be reached by path."
+        },
+        {
+          "id": 9,
+          "name": "Sen Monorum Waterfall",
+          "image": "/Sen Monorum Waterfall.jpg",
+          "description": "Sen Monorum waterfall has three stages: - First stage: The waterfall has slow speed, one-meter height and 2-4 meter diameter. - Second stage: During the rainy season, the waterfall has strong speed, 6-7 meter height and 8-meter diameter. During the dry season, the waterfall has 7-9 meter height and 4-5 meter diameter. At the waterfall, there is a large space of resting and enjoying.",
+          "map": "Location: is located at Sen Monorum District in five-kilometer distance from the provincial town by red soil trail"
+        },
+        {
+          "id": 10,
+          "name": "Plantation of Pinetree",
+          "image": "/Plantation of Pinetree.jpg",
+          "description": "A large pine tree plantation where hundreds of towering pine tree, planted before 1970, are growing in rows. Fallen needles from the trees turn the ground into a golden carpet. The needles are so numerous that visitors can lie on the ground without disturbing them. Pine trees are believed to have been planted before then Prince Norodom Sihanouk founded his Sangkum Reastr Niyum regime, at which time the province was created.In addition, according to hunters in the province, there are more than 60 waterfalls, both big and small, making Mondulkiri province a potential source for hydro electric power.",
+          "map": "https://maps.app.goo.gl/7Tf2eLFrm2ZS6KhE8"
+        },
+        {
+          "id": 11,
+          "name": "Chrey Thom Waterfall",
+          "image": "/Chrey Thom Waterfall.jpg",
+          "description": "During the dry season, the waterfall has 15 meters height and 2 meters diameter, and during the rainy season, the waterfall has 11 meters height and 8 meters diameter. The waterfall fall us near a plantation of Srolao trees and a big, branchy Chrey tree.The provincial tourist service is working with the local authority to prepare this site as a tourist destination in place of Busra waterfall, which is inaccessible during rainy season. The travelers are amazed to see the plantation of Sro Lou around the Chrey Thom Waterfall, Mondulkiri. Another spectacle around the Chrey Thom Waterfall, Mondulkiri Is the huge brandy tree of Chrey which is standing there for quite a long time.",
+          "map": "https://maps.app.goo.gl/WKSzC9gSURb961HM6"
+        },
+        {
+          "id": 12,
+          "name": "Bousra Waterfall",
+          "image": "/Bousra Waterfall-1.jpg",
+          "description": "Busra is considered by many to be the most beautiful waterfall in Mondulkiri. First Stage: The waterfall fall is 8 to 12 meters high and 15 meters wide in rainy season and 10 to 15 meters wide in dry season. Second Stage: The waterfall fall is 15 to 20 meters high and 20 meters wide in rainy season and 18 to 25 meters high and 13 meters wide in dry season. The second stage is 150 meters from the first stage. Third Stage: The speed of waterfall is faster than the second stage. This stage cannot be reached because it is in the thick forest. There are no marked paths and dangerous wildlife inhabits the area.",
+          "map": "https://maps.app.goo.gl/SEMpCmNbKAWemmM77"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Ratanakiri",
+      "image": "/photos/allprovinces/Ratanakiri.jpg",
+      "Description": "Ratanakiri is a province of Cambodia located in the remote northeast. It borders the provinces of Mondulkiri to the south and Stung Treng to the west and the countries of Laos and Vietnam to the north and east, respectively. The province extends from the mountains of the Annamite Range in the north, across a hilly plateau between the Tonle San and Tonle Srepok rivers, to tropical deciduous forests in the south. In recent years, logging and mining have scarred Ratanakiri's environment, long known for its beauty.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Beung Yeak Laom",
+          "image": "/Beung Yeak Laom Lake sky view.jpg",
+          "description": "The beautiful lake occupies a 4000-year-old volcanic crater. Due to the lake’s tremendous depth 48 m(157 ft), its water is exceptionally clean and clear. The lake is almost perfectly round and measures 0.72 km (0.45 mi in diameter. Large tree and rich, lush rain forest, the home of many exotic bird and parts, surround the lake. There are two places along the bank where visitors can relax and enjoy a panoramic view of the lake and the flora and fauna. A tourist information center is on the west bank, and handicrafts make by hill tribes living nearly are available for sale.",
+          "map": "https://maps.app.goo.gl/ZCXNwjyVssLyK6sT6"
+        },
+        {
+          "id": 2,
+          "name": "Virachey National Park",
+          "image": "/Virachey National Park.png",
+          "description": "Vrachey National Park is one of the largest protected areas in Cambodia, stretching for 3325 sq km east to Vietnam, north to Laos and west to Stung Treng Province. The park has never been fully explored and is home to a number of rare mammals, including elephants, clouded leopards and sun bears, although your chances of seeing of these creatures are extremely slim. However, you’ll probably hear endangered gibbons and you might spot great hornbill, giant ibis and other rare birds. So important is the park to the Mekong region that it was designated an Asean Heritage Park in 2003. And it is only possible to visit the park on organized treks booked though the Virachey national Park Eco-Tourism Information Centre in Ban Lung.",
+          "map": "https://maps.app.goo.gl/mHWHUCkYuc6K61ns5"
+        },
+        {
+          "id": 3,
+          "name": "Ka Chanh Waterfall",
+          "image": "/Ka Chanh Waterfall.jpg",
+          "description": "Among the stream and rubber plantation, the Kachanh Waterfall provides great scenery for tourist. The stream’s bottom can be accessed by a wooden stair having approximately 72 steps. On the side of the top of the waterfall, big trees branching out cast cool shadows over tourists for picnicking there. And beside the stream, there is a stand stair build in 1998 for tourist to get on the elephant’s back for their enjoyable riding.",
+          "map": "https://maps.app.goo.gl/BQbKGFTKdRYPxfHY7"
+        },
+        {
+          "id": 4,
+          "name": "Cha Ong Waterfall",
+          "image": "/Cha Ong Waterfall.jpg",
+          "description": "The waterfall gets its water from Phnom Eysei Patamak or Phnom Svay near Ban Loung provincial town. From  its upper level. A mountain slop leads visitors to the bottom of the waterfall, where they can sit inside a cave and enjoy the view. The situation from above is a small canal which continuously flows through the broken rocks, then to the stream below in 25-kilometer height. To view the waterfall, we should go down to the stream below where we have seen a big rocky cabe with plain roof. At the bottom of the stream, there are many big rock used as the seats for viewing the great and interesting water falling down from the mountaintop.",
+          "map": "https://maps.app.goo.gl/miZYvSva2Xs1keoU9"
+        },
+        {
+          "id": 5,
+          "name": "Veal Ram Plang",
+          "image": "/Veal Ram Plang.jpg",
+          "description": "Veal Ram Plang means the Ram Plang field and is an attractive nature spot that is part of the territories of the legendary hill tribe communities living there. It is a mesa plateau area on the top of a mountain in Ratanakiri Province. On this field are grass and wild plants, which flower during the whole rainy season from May till January.  Near the field is a small, clean river.",
+          "map": "https://maps.app.goo.gl/JKJ6qED8c6KFAxUt5"
+        },
+        {
+          "id": 6,
+          "name": "Ou Chaloy Ranatakiri",
+          "image": "/Ou Chaloy in Ranatakiri.jpg",
+          "description": "Chaloy, Ratanakiri is a popular tourist attraction in this colorful region of Cambodia. Ou Chaloy in Ratanakiri is located on this river, 34 kilometers southwest of Banlung, the provincial capital. To enjoy the recreation options for tourists here, you have to visit the Ou Chaloy, Ratanakiri during the dry season. Include the destination in your itinerary for a satisfactory tour of the colorful Ratanakiri.",
+          "map": "Location: Ou'Chaloy is located in the Sre Pok river It is situated 34km. south - west of Banlung."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Koh Kong",
+      "image": "/photos/allprovinces/Koh Kong.jpg",
+      "Description": "From 1795 to 1904 the area was under Siamese administration with the local name of Koh Kong. In 1907 Koh Kong remained part of French Cambodia. Koh Kong city, the capital of Koh Kong province, is a large forested area with mangroves, rivers, waterfalls and tropical islands The most southwestern province of Cambodia, Koh Kong has a long undeveloped coastline and a mountainous, forested, and largely inaccessible interior which includes part of the Cardamom Mountains, Cambodia's largest national park (Botum Sakor National Park), and a section of Kirirom National Park.). Koh Kong was recently listed by The Lonely Planet Guidebook as one of the best eco-tourism places in the world to visit.  There are a few eco-tourist lodges outside the town in the jungle and on the rivers, and hundreds of kilometers of unspoiled jungles for the real adventurer.  Many destinations are only accessible by foot, boat, motorcycle or cow.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Tatai Waterfall",
+          "image": "/tatai-waterfall.jpeg",
+          "description": "The scenic beauty of the Tatay Waterfalls draws many travelers to Koh Kong. Here, visitors may climb up to the individual small falls and take a refreshing dip in the crystal-clear waters. Aside from swimming, one may also pack a lunch and picnic on the big rocks surrounding the falls. Travelers can arrange for boat rides or kayaks to paddle out to the falls. A ride back from the falls during sunset is especially captivating.",
+          "map": "https://maps.app.goo.gl/gvHUrzoEBGeRCiAM7"
+        },
+        {
+          "id": 2,
+          "name": "Koh Kong Krav",
+          "image": "/Kor Kong Krau.jpg",
+          "description": "Known as the “largest island in Cambodia”, Kor Kong Krau is one of the most beautiful islands in Koh Kong Province known by its beautiful beach, clear blue sea, forest surround the island and also Kor Kong Krau has its own waterfall inside the island which it is hardly to find anywhere else besides Kor Kong Krau. Koh Mool is famous for a short trip from the charming town of Koh Kong. If you love fishing, finding snail, catching octopus, and dive to see a beautiful create under the sea. Apart from the lovely retreats one can find stunning cascading waterfalls. Travelers can also visit a number of small springs, and engage in dolphin watching. Young children will enjoy the dolphin show that is organized by the Koh Mool Resort (Kor Kong Krau). A walk on the beach in the moonlight is also an experience you will never forget. You can visit the village in the island and explore the culture and get to know more about Khmer culture.",
+          "map": "https://maps.app.goo.gl/AJfe2YXDXhvkDLM98"
+        },
+        {
+          "id": 3,
+          "name": "Khun Chhlagn Khun Phen",
+          "image": "/Khun Chhlagn Khun Phen.png",
+          "description": "The Khun Chhlagn Khun Phen Resort is situated at a strategic point in front of the provincial town of Koh Kong. Koh Kong consists of a stupa which is located on a huge rock placed at the middle of the vast expanse of the blue sea. This is one of the major meeting places of the local people during the festive days. International travelers coming also come here visit the Khun Chhalgn Khun Phen Resort in Koh Kong during the days of the traditional festival and to get insight into the rich cultural heritage of the Cambodia.",
+          "map": "https://maps.app.goo.gl/aEHkqWv39gNcnfUS7"
+        },
+        {
+          "id": 4,
+          "name": "Lam Da Beach",
+          "image": "/Lam Da Beach-2.jpg",
+          "description": "At Lam Da Beach, you can spend some time amidst sea, sand and serenity. The long stretch of golden beach shining in the warm rays of the sun makes it a favorite tourist spot for young and old alike. It takes around one hour and forty-five minutes to get to Lam Da Beach, which is ideally situated about twenty kilometers away from the provincial town. Kids as well as all adults will enjoy the calm waters of the sea and the picturesque surroundings.",
+          "map": "https://maps.app.goo.gl/jUkuPJLq1yRc5Do68"
+        },
+        {
+          "id": 5,
+          "name": "Kbal Chhay Waterfall",
+          "image": "/Kbal Chhay Waterfall.jpg",
+          "description": "The Kbal Chhay Prek Koh Waterfalls offer spectacular views and an escape to serenity. The Kbal Chhay Prek Koh Waterfall is home to nature and wildlife reserves where the travelers might see some of the rare species of flora and fauna. The spot is also perfect for family picnics.",
+          "map": "https://maps.app.goo.gl/AhmtZCp356AUvXHQ8"
+        },
+        {
+          "id": 6,
+          "name": "Sner Beach",
+          "image": "/Sner Beach.jpg",
+          "description": "Sner Beach is a frequently visited tourist attraction in Koh Kong. Visitors from different corners of the world prefer Sner Beach as it boasts a stunning coastline. You can either hire a car or drive down on your own to Sner Beach. The natural beauty of the beach and its adjoining areas, which lie tucked away from the hustle and bustle of the cities, compels tourists to come back here time and again.",
+          "map": "https://maps.app.goo.gl/SvcqpqmUiwGoKDtk8"
+        },
+        {
+          "id": 7,
+          "name": "Cham Yeam Resort",
+          "image": "/Cham Yeam Resort-2.jpg",
+          "description": "Cham Yeam is a semi-natural site developed 1997 by Neak Oknha Li Yong Phat. He names it Koh Kong International Resort. Today it attracts many tourists, especially Thais. Cham Yeam Resort is one of the most beautiful resorts in Cambodia because it has five-star hotels, guest houses, several casinos and international zoo, Koh Kong Safari World. Cham Yeam Beach features beautiful coconut trees. The Cham Yeam border checkpoint ",
+          "map": "https://maps.app.goo.gl/GrG9Vgd8JgQQJphJ8"
+        },
+        {
+          "id": 8,
+          "name": "Koh Sdach Island",
+          "image": "/Koh Sdach Island hotel.jpg",
+          "description": "It attracts visitors from Sihanoukville and Sre Ambil district.Koh Sdech features a long beach, and the sea is filled with a variety of fish. The site is excellent for snorkeling or scuba diving, as the water is clear, and an array of coral can be seen growing at the bottom of the sea. ",
+          "map": "https://maps.app.goo.gl/BB4tECih1VynntMR7"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Oddor Meanchey",
+      "image": "/photos/allprovinces/Odor Meanchey.jpg",
+      "Description": "It is a province of Cambodia in the remote northwest. It borders the provinces of Banteay Meanchey to the west, Siem Reap to the south and Preah Vihear to the east. Its long northern boundary demarcates part of Cambodia's international border with Thailand. The capital is Samraong. The province was created on 27 April 1999, after being carved from the northern half of Siem Reap province and part of Banteay Meanchey.",
+      "famous_places": [
+        {
+          "id": 1,
+          "name": "Tamok House",
+          "image": "/Tamok House.jpg",
+          "description": "It is a house once owned by former Khmer Rouge Commander Ta Mok. From 1979 until late 1997, this area was organized and controlled by the Khmer Rouge armies. Some remaining statues describe the way the rebels lived and how they arranged their troops during their bloody struggle against the government. in the forest is a pile of tires which is believed to be the funeral pyre and burial site of Pol Pot, the leader of Khmer Rouge. Many tourists go to Anlong Veng to see and photograph the sites and activities associated with the former regime, and the government has discussed turning this area into a historical site to attract even more tourists.",
+          "map": "https://maps.app.goo.gl/J1uA5AQTj2GtryVD8"
+        },
+        {
+          "id": 2,
+          "name": "O'Smach",
+          "image": "/O'Smach.jpg",
+          "description": "The town features a resort which includes a number of casinos, good restaurants and luxury hotels. The resort has been organized by the Royal Group and VIP Shop Group companies.The O Smach Resort has an impressive entry complete with a giant glowing green lotus set in a fountain. The resort has beautifully maintained grounds which feature, for some unknown reason, two military armoured vehicles decorated with Christmas lights.",
+          "map": "https://maps.app.goo.gl/oJVoXCxHxmBWWWmx8"
+        },
+        {
+          "id": 3,
+          "name": "Cham Pey Waterfall",
+          "image": "/Cham Pey Waterfall.jpg",
+          "description": "Besides the waterfall at the mountain valley, the natural complex is covered with many trees and lots of orchids and other colorful flowers. Not quite far from the waterfall is another natural and cultural site named Rut Cham Pey and organized by monks who are meditating there. In Rut Cham Pey, tourists can see many statues depicting the process of human life, religious and animal figures.",
+          "map": "Location: is located about 35km from the provincial town along the road No 68."
+        },
+        {
+          "id": 4,
+          "name": "Prasat Ta Muen Thom",
+          "image": "/Prasat_Ta_Muen_Thom.jpg",
+          "description": "Its Khmer name translates literally to Great Temple of Grandfather Chicken. It lies not far from two related temples in a densely forested area where access is difficult on one of the passes through the Dangrek Mountains. Because of its location on the Thai side of the current border, the temple is only accessible from Thailand. Access from Cambodia would be difficult because the ancient Khmer Highway that led to the pass has long since been retaken by the jungle. During the Cambodian–Thai border dispute (2009-2011) which was primarily centered around ownership of Preah Vihear Temple, border clashes spread to Ta Muen and access to the temple was temporarily closed. Afterwards, tensions remain high and tourists at the temple are not allowed to venture more than a few meters southward from the main entrance and armed Thai border police stand guard to mark the border.",
+          "map": "https://maps.app.goo.gl/9G9Zmjb6xThMQaUu8"
+        }
+      ]
+    }
+  ],
+  "Schedule_Provinces": [
+    {
+      "id": 1,
+      "province_name": "Pnhom Penh",
+      "image": "//Phnom Penh.jpg"
+    },
+    {
+      "id": 2,
+      "province_name": "Siem Reap",
+      "image": "/AngkorWat.jpg"
+    },
+    {
+      "id": 3,
+      "province_name": "Kompot",
+      "image": "//Phnom Penh.jpg"
+    },
+    {
+      "id": 4,
+      "province_name": "Kep",
+      "image": "//Phnom Penh.jpg"
+    },
+    {
+      "id": 5,
+      "province_name": "Preahsihanouk",
+      "image": "//Phnom Penh.jpg"
+    }
+  ]
+}

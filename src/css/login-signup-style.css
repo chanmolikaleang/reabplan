@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: Arial, sans-serif;    
+}
+.login-background {
+    background-image: url('/public/AngkorWat.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    margin-bottom: 30px;
+}
+.login-box {
+    width: 500px;
+    height: 350px;
+    background: rgba(255, 255, 255, 0.2);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.login-box h2 {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    font-size: 18px;
+}
+
+.text-danger {
+    color: red;
+}
+
+#donthaveaccount{
+    text-align: center;
+
+}
+.img-fluid{
+    margin-top: -250px;
+    margin-bottom: -100px;
+}
